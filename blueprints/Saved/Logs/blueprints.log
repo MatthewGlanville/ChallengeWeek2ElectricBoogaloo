@@ -1164,3 +1164,152 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.27-15.26.35:977][ 86]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.27-15.26.35:977][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.02.27-15.26.35:977][ 86]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-15.29.15:568][110]LogActorFactory: Actor Factory created bobball
+[2023.02.27-15.29.16:180][169]LogActorFactory: Actor Factory created bobball
+[2023.02.27-15.30.03:579][672]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: A98A6730E0106055634A4C9BA67F872154461620), compiling. 
+[2023.02.27-15.30.03:581][672]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F6A7F29828D99384E166E948A7D1AF9B59766D3), compiling. 
+[2023.02.27-15.30.03:584][672]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CBCE4479AD5A30664ADDACC9F9F3BE3780A263D7), compiling. 
+[2023.02.27-15.30.03:585][672]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: B9CCB7228DDE4D9C0187A8E5CD4D839BA55D34B4), compiling. 
+[2023.02.27-15.30.03:587][672]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 520DF0C3DBC28BE2744BB7003996EA0D55DF912C), compiling. 
+[2023.02.27-15.30.03:589][672]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: B14BEA6C46C6182C9A45D9C64B3FDB079E4B400E), compiling. 
+[2023.02.27-15.30.03:590][672]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.27-15.30.03:596][672]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.30.03:612][673]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.27-15.30.03:612][673]LogShaderCompilers: Display: Total job queries 322, among them cache hits 134 (41.61%)
+[2023.02.27-15.30.03:612][673]LogShaderCompilers: Display: Tracking 188 distinct input hashes that result in 64 distinct outputs (34.04%)
+[2023.02.27-15.30.03:612][673]LogShaderCompilers: Display: RAM used: 0.38 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.02.27-15.30.03:612][673]LogShaderCompilers: Display: ================================================
+[2023.02.27-15.30.03:624][674]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.30.03:643][675]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.27-15.30.03:643][675]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.27-15.30.03:643][675]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.27-15.30.03:643][675]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.30.29:337][923]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: A2AFDEA18C5335C7492CBDDB66D2681F1CB7CBA7), compiling. 
+[2023.02.27-15.30.29:339][923]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 34A4033663B315E6992FFE6311CBFE2BE8CBBAA3), compiling. 
+[2023.02.27-15.30.29:342][923]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C2281F30186B6C1F7200098C3B6582DBEF1952B8), compiling. 
+[2023.02.27-15.30.29:344][923]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: B272B48F35C16C82E88C5CBC876A20CFE37B87EA), compiling. 
+[2023.02.27-15.30.29:345][923]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.27-15.30.29:352][923]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.30.29:379][925]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.30.29:396][926]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.27-15.30.29:397][926]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.27-15.30.29:397][926]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.27-15.30.29:397][926]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.31.05:167][139]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.27-15.31.07:866][379]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 70A83057DF14E91C96A053A2A87B162FB667ACED), compiling. 
+[2023.02.27-15.31.07:873][379]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.31.07:908][381]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.31.07:952][382]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.27-15.31.07:952][382]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.27-15.31.07:952][382]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.27-15.31.07:953][382]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.31.09:309][513]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: BF919003CC7DE2A59620F792EBCAF0134FF1AD08), compiling. 
+[2023.02.27-15.31.09:312][513]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 943D54CDB3B6E17504CF66AB5C5B5F42F6434DCA), compiling. 
+[2023.02.27-15.31.09:315][513]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 020C0AFBE311B497BAE10C1E3B3C29EE3C54B756), compiling. 
+[2023.02.27-15.31.09:320][513]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.31.09:350][515]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.02.27-15.31.09:364][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.02.27-15.31.09:364][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.02.27-15.31.09:364][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2023.02.27-15.31.09:364][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2023.02.27-15.31.09:364][516]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.31.09:364][516]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.27-15.31.10:595][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2023.02.27-15.31.10:595][578]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.31.10:620][579]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.31.10:683][582]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2023.02.27-15.31.10:683][582]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.31.12:537][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.02.27-15.31.12:537][664]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.31.12:896][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.02.27-15.31.12:897][680]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.31.14:057][730]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.02.27-15.31.14:057][730]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.31.14:609][755]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.31.15:492][807]MaterialEditorStats: Base pass shader: 75 instructions
+[2023.02.27-15.31.15:492][807]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2023.02.27-15.31.15:492][807]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.02.27-15.31.15:492][807]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.31.35:088][635]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: BD19B50E6AAEF1206925B69C81FDB3F3872C564E), compiling. 
+[2023.02.27-15.31.35:090][635]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.31.35:130][637]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.31.35:146][638]MaterialEditorStats: Base pass shader: 75 instructions
+[2023.02.27-15.31.35:146][638]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2023.02.27-15.31.35:146][638]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.02.27-15.31.35:146][638]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.31.37:273][833]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D995B5108E1B1E3EC83BF1EBEF043C5AF70457C), compiling. 
+[2023.02.27-15.31.37:281][833]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: F29065F373E90D99B8C15E124AA57D9F615482AC), compiling. 
+[2023.02.27-15.31.37:286][833]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.31.37:347][835]MaterialEditorStats: Base pass shader: 75 instructions
+[2023.02.27-15.31.37:347][835]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2023.02.27-15.31.37:347][835]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.02.27-15.31.37:347][835]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.32.00:776][661]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionScalarParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D07C9BF915031DF79E77E738885C143C10AFB07), compiling. 
+[2023.02.27-15.32.00:789][663]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.27-15.32.00:800][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.02.27-15.32.00:800][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.02.27-15.32.00:800][664]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.27-15.32.20:196][455]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: CCC573B126B83BF5AD035D75052032A8715270FC), compiling. 
+[2023.02.27-15.32.20:199][455]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionScalarParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 78E26D7EB86C578F95E7527ADE2DCC5B12BF4F7C), compiling. 
+[2023.02.27-15.32.20:203][455]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3135738DD276FB8D76AD8345E869FCD844B20), compiling. 
+[2023.02.27-15.32.20:207][455]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.32.20:261][458]MaterialEditorStats: Base pass shader: 75 instructions
+[2023.02.27-15.32.20:261][458]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2023.02.27-15.32.20:261][458]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.02.27-15.32.20:261][458]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.32.24:171][826]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 3869AF170E6E63CD841C38C0E5369CC8060CB84F), compiling. 
+[2023.02.27-15.32.24:174][826]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionScalarParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CD77885F1896766855ED33C2A899814A4DED9DF1), compiling. 
+[2023.02.27-15.32.24:177][826]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9BCAAA24B671CBA07F00AA7C3F370C59CDA8EA95), compiling. 
+[2023.02.27-15.32.24:178][826]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.32.24:229][829]MaterialEditorStats: Base pass shader: 75 instructions
+[2023.02.27-15.32.24:229][829]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2023.02.27-15.32.24:229][829]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.02.27-15.32.24:229][829]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.32.27:930][158]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5B7F2774F1788E825B33B70B421BE3DC538BB6C8), compiling. 
+[2023.02.27-15.32.27:932][158]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionScalarParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C8631F120AB7D7704F9B729365622EA403B2A4D), compiling. 
+[2023.02.27-15.32.27:937][158]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.27-15.32.27:969][160]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.27:969][160]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2023.02.27-15.32.27:969][160]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2023.02.27-15.32.27:969][160]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2023.02.27-15.32.27:969][160]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2023.02.27-15.32.27:969][160]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.27:969][160]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.27-15.32.29:175][214]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2023.02.27-15.32.29:175][214]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.29:205][215]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.27-15.32.29:245][217]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2023.02.27-15.32.29:245][217]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.31:050][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.02.27-15.32.31:050][297]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.31:379][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2023.02.27-15.32.31:379][314]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.32:384][360]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2023.02.27-15.32.32:384][360]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.33:000][388]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.32.34:086][452]MaterialEditorStats: Base pass shader: 79 instructions
+[2023.02.27-15.32.34:086][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2023.02.27-15.32.34:086][452]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.02.27-15.32.34:086][452]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.27-15.32.44:555][458]LogMaterialEditor: Saving and Compiling material lambert2
+[2023.02.27-15.32.44:917][458]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D28BB7E32E76C91D5748F2192A53B90BC8FC870), compiling. 
+[2023.02.27-15.32.44:949][458]LogMaterial: Display: Missing cached shadermap for lambert2 in PCD3D_SM5, Default, SM5 (DDC key hash: DF847FD3B70BD6858E0F3BFC49A687DBC7D787E3), compiling. 
+[2023.02.27-15.32.45:027][458]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.45:036][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2023.02.27-15.32.45:036][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2023.02.27-15.32.45:036][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2023.02.27-15.32.45:036][458]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.02.27-15.32.45:049][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.02.27-15.32.46:187][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.02.27-15.32.46:339][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LewisModels/lambert2" FILE="V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/LewisModels/lambert2.uasset" SILENT=true
+[2023.02.27-15.32.46:344][458]LogSavePackage: Moving 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/lambert234DE5AAA4C495F2B3DB68F93541044D8.tmp' to 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/LewisModels/lambert2.uasset'
+[2023.02.27-15.32.46:356][458]AssetCheck: New page: Asset Save: lambert2
+[2023.02.27-15.32.46:356][458]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/LewisModels/lambert2.lambert2
+[2023.02.27-15.32.58:659][701]LogActorFactory: Actor Factory created bobball
+[2023.02.27-15.32.58:908][720]LogActorFactory: Actor Factory created bobball
+[2023.02.27-15.34.14:461][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.27-15.34.14:478][381]LogSavePackage: Moving 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap46ADC5524D7622185F5EA089C9B07BE7.tmp' to 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.27-15.34.14:574][381]LogSavePackage: Moving 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap_BuiltDataF845325D4D411BD5FF837A8BE5A6B8A2.tmp' to 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.27-15.34.14:591][381]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-15.34.14:591][381]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.27-15.34.14:591][381]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
