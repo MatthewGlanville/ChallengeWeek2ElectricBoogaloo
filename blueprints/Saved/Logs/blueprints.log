@@ -1176,3 +1176,740 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.27-13.43.27:934][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.27-13.43.28:066][  1]LogAssetRegistry: Asset discovery search completed in 17.3810 seconds
 [2023.02.27-13.43.28:085][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2023.02.27-14.23.41:900][ 38]LogSlate: Took 0.013016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.27-14.23.42:536][ 38]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.27-14.25.22:628][ 38]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.27-14.25.22:682][ 38]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.27-14.25.22:972][ 38]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.27-14.26.47:229][150]LogContentBrowser: Attempting asset rename: NewBlueprint -> Prisoner
+[2023.02.27-14.26.47:307][150]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.27-14.26.49:412][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Prisoner.Prisoner
+[2023.02.27-14.26.50:282][255]LogBlueprintEditor: Perf: 0.5 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2023.02.27-14.26.50:282][255]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2023.02.27-14.26.51:995][255]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0144 seconds. Added 126 classes and 0 folders.
+[2023.02.27-14.26.57:901][326]LogRenderer: Reallocating scene render targets to support 696x712 Format 10 NumSamples 1 (Frame:71).
+[2023.02.27-14.27.07:946][769]LogSlate: Took 0.014042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.27-14.27.25:302][119]BlueprintLog: New page: Compile Prisoner
+[2023.02.27-14.27.25:472][119]LogUObjectHash: Compacting FUObjectHashTables data took  17.12ms
+[2023.02.27-14.27.25:665][119]LogSlate: Took 0.018725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.27-14.27.26:392][132]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Prisoner8553FC4F40A7841AAB3BFC98255CAF06.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/Prisoner.uasset'
+[2023.02.27-14.27.26:476][132]AssetCheck: New page: Asset Save: Prisoner
+[2023.02.27-14.27.26:476][132]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Prisoner.Prisoner
+[2023.02.27-14.27.27:944][169]LogSlate: Took 0.016910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.27-14.27.35:411][472]LogSlate: Window 'Prisoner' being destroyed
+[2023.02.27-14.32.28:998][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.Prisoner:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.SKEL_Prisoner_C' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.Prisoner_C' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.Prisoner:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.Prisoner:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.Prisoner:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.SKEL_Prisoner_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.SKEL_Prisoner_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.SKEL_Prisoner_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:325][642]LogMetaData: Removing '/Game/blueprints/Prisoner.SKEL_Prisoner_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Prisoner.PackageMetaData'
+[2023.02.27-14.32.51:474][642]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/PrisonerF1587AE845BD5736505010ABF78D454D.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Prisoner.uasset'
+[2023.02.27-14.32.51:678][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.02.27-14.32.51:748][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.27-14.32.51:796][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.27-14.32.52:004][642]AssetCheck: New page: Asset Save: Prisoner
+[2023.02.27-14.32.52:005][642]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Prisoner.Prisoner
+[2023.02.27-14.35.32:493][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.02.27-14.35.32:549][563]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap_Auto1C37181FC4472F05FD61B6A89C8B49203.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2023.02.27-14.35.32:553][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.117
+[2023.02.27-14.35.32:554][563]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2023.02.27-14.36.59:040][ 92]LogEditorViewport: Clicking on Actor (LMB): Prisoner_C (Prisoner)
+[2023.02.27-14.37.02:252][205]LogEditorViewport: Clicking on Actor (LMB): Prisoner_C (Prisoner)
+[2023.02.27-14.37.02:380][207]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2023.02.27-14.37.02:664][214]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2023.02.27-14.39.13:427][ 20]LogSlate: Took 0.015136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.27-14.41.57:976][ 78]BlueprintLog: New page: Compile Prisoner
+[2023.02.27-14.41.58:118][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2023.02.27-14.43.03:264][524]BlueprintLog: New page: Compile Prisoner
+[2023.02.27-14.43.03:374][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2023.02.27-14.43.04:136][539]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Prisoner7118BE9B4BBFCBBBAD2AE59FE656068F.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Prisoner.uasset'
+[2023.02.27-14.43.04:177][539]AssetCheck: New page: Asset Save: Prisoner
+[2023.02.27-14.43.04:178][539]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Prisoner.Prisoner
+[2023.02.27-14.43.21:578][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2023.02.27-14.43.21:620][ 87]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap8911EA744EBBE1DCB1A8F5BEF8779A70.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.27-14.43.22:031][ 87]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap_BuiltData48A1AAE74A1E00D25D7906A35DE3F9B1.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.27-14.43.22:076][ 87]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-14.43.22:077][ 87]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.27-14.43.22:077][ 87]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-14.43.25:623][222]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-14.43.25:652][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-14.43.25:678][222]PIE: New page: PIE session: ThirdPersonExampleMap (27 Feb 2023, 14:43:25)
+[2023.02.27-14.43.25:712][222]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.27-14.43.25:723][222]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.27-14.43.25:725][222]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-14.43.25:770][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044217s)
+[2023.02.27-14.43.25:784][222]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-14.43.25:793][222]LogPlayLevel: PIE: World Init took: (0.022205s)
+[2023.02.27-14.43.25:793][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.067442s)
+[2023.02.27-14.43.25:834][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.02.27-14.43.25:840][222]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.27-14.43.25:844][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-14.43.25:844][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-14.43.25:844][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-14.43.25:844][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-14.43.25:844][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-14.43.25:844][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-14.43.25:844][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-14.43.25:845][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-14.43.25:850][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-14.43.25:850][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-14.43.25:850][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-14.43.25:850][222]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-14.43.25:869][222]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-14.43.25:869][222]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-14.43.26:123][222]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-14.43.26:127][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-14.43.26:127][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-14.43.26:128][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-14.43.26:130][222]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-14.43.26:130][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-14.43.26:131][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-14.43.26:133][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-14.43.26:133][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-14.43.26:133][222]LogInit: FAudioDevice initialized.
+[2023.02.27-14.43.26:134][222]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-14.43.26:200][222]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-14.43.26:237][222]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.02.27-14.43.26
+[2023.02.27-14.43.26:255][222]LogWorld: Bringing up level for play took: 0.031263
+[2023.02.27-14.43.26:263][222]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.02.27-14.43.26:330][222]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0024 seconds. Added 20 classes and 0 folders.
+[2023.02.27-14.43.26:342][222]PIE: Server logged in
+[2023.02.27-14.43.26:343][222]PIE: Play in editor total start time 0.699 seconds.
+[2023.02.27-14.43.30:255][386]LogBlueprintUserMessages: [Prisoner_2] 1
+[2023.02.27-14.43.31:878][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-14.43.31:878][469]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-14.43.31:881][469]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.43.31:885][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.43.31:916][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-14.43.31:942][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.43.32:004][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-14.43.32:009][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-14.43.32:012][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-14.43.32:018][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-14.43.32:092][469]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2023.02.27-14.43.32:169][470]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.27-14.44.06:068][722]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.27-14.44.06:105][722]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.27-14.44.06:132][722]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.27-14.44.12:661][992]LogContentBrowser: Attempting asset rename: NewBlueprint -> Enemy
+[2023.02.27-14.44.12:684][992]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.27-14.44.14:933][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/Enemy.Enemy
+[2023.02.27-14.44.54:649][819]BlueprintLog: New page: Compile Enemy
+[2023.02.27-14.44.54:779][819]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2023.02.27-14.44.55:576][830]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Enemy81802EDF4B17ACA3952421B7ACE6A6EB.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Enemy.uasset'
+[2023.02.27-14.44.55:617][830]AssetCheck: New page: Asset Save: Enemy
+[2023.02.27-14.44.55:617][830]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Enemy.Enemy
+[2023.02.27-14.46.44:566][ 85]BlueprintLog: New page: Compile Enemy
+[2023.02.27-14.46.44:669][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2023.02.27-14.46.45:837][113]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/EnemyBD97C6894A7CCB5CB35DECAC5105907B.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Enemy.uasset'
+[2023.02.27-14.46.45:868][113]AssetCheck: New page: Asset Save: Enemy
+[2023.02.27-14.46.45:868][113]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Enemy.Enemy
+[2023.02.27-14.47.14:976][885]LogSlate: Window 'New Level' being destroyed
+[2023.02.27-14.47.15:000][885]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.27-14.47.15:075][885]LightingResults: New page: Lighting Build
+[2023.02.27-14.47.15:077][885]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.02.27-14.47.15:092][885]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.47.15:096][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.47.15:096][885]MapCheck: New page: Map Check
+[2023.02.27-14.47.15:097][885]LightingResults: New page: Lighting Build
+[2023.02.27-14.47.15:155][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-14.47.15:197][885]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2023.02.27-14.47.15:295][885]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.02.27-14.47.15:317][885]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.02.27-14.47.15:323][885]LogAIModule: Creating AISystem for world Untitled_1
+[2023.02.27-14.47.15:335][885]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.27-14.47.15:400][885]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2023.02.27-14.47.15:425][885]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.27-14.47.15:425][885]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.426ms to complete.
+[2023.02.27-14.47.15:426][885]LogFileHelpers: Loading map 'Template_Default' took 0.427
+[2023.02.27-14.48.41:223][693]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.02.27-14.48.41:251][693]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.02.27-14.48.47:174][895]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GameOver
+[2023.02.27-14.48.47:205][895]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.02.27-14.48.52:843][ 30]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/blueprints/GameOver.GameOver
+[2023.02.27-14.48.59:950][236]LogProperty: Warning: ObjectProperty /Script/SlateCore.SlateBrush:ResourceObject: unresolved reference to 'Texture2D'"/Game/ThirdPersonBP/Textures/StormWatch_front_image.StormWatch_front_image"')'
+[2023.02.27-14.49.04:057][368]LogSlate: Took 0.027524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.27-14.49.25:593][127]LogEditorTransaction: Undo Changed Anchors
+[2023.02.27-14.50.25:925][362]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.02.27-14.51.12:722][158]BlueprintLog: New page: Compile GameOver
+[2023.02.27-14.51.13:057][158]LogUObjectHash: Compacting FUObjectHashTables data took  19.22ms
+[2023.02.27-14.51.13:753][176]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOver9C03655A486C9916CE6078B1E7B9DC90.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/GameOver.uasset'
+[2023.02.27-14.51.13:814][176]AssetCheck: New page: Asset Save: GameOver
+[2023.02.27-14.51.13:814][176]LogContentValidation: Display: Validating WidgetBlueprint /Game/blueprints/GameOver.GameOver
+[2023.02.27-14.52.31:831][384]BlueprintLog: New page: Compile GameOver
+[2023.02.27-14.52.32:033][384]LogUObjectHash: Compacting FUObjectHashTables data took  13.69ms
+[2023.02.27-14.52.32:582][399]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOverB430E6854882D9369D9713AE5099BF5E.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/GameOver.uasset'
+[2023.02.27-14.52.32:622][399]AssetCheck: New page: Asset Save: GameOver
+[2023.02.27-14.52.32:622][399]LogContentValidation: Display: Validating WidgetBlueprint /Game/blueprints/GameOver.GameOver
+[2023.02.27-14.53.36:385][ 50]LogUObjectHash: Compacting FUObjectHashTables data took  13.25ms
+[2023.02.27-14.53.36:448][ 50]LightingResults: New page: Lighting Build
+[2023.02.27-14.53.36:452][ 50]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.02.27-14.53.36:475][ 50]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.53.36:482][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.53.36:486][ 50]MapCheck: New page: Map Check
+[2023.02.27-14.53.36:486][ 50]LightingResults: New page: Lighting Build
+[2023.02.27-14.53.36:573][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-14.53.36:596][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2023.02.27-14.53.36:674][ 50]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-14.53.36:682][ 50]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-14.53.36:745][ 50]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.27-14.53.36:830][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   9.29ms
+[2023.02.27-14.53.36:861][ 50]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.27-14.53.36:862][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.63ms to complete.
+[2023.02.27-14.53.36:862][ 50]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.467
+[2023.02.27-14.53.36:863][ 50]LogSlate: Window 'Open Level' being destroyed
+[2023.02.27-14.55.21:765][777]BlueprintLog: New page: Compile GameOver
+[2023.02.27-14.55.21:893][777]LogUObjectHash: Compacting FUObjectHashTables data took  13.25ms
+[2023.02.27-14.55.22:593][798]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOver5BEE5A0A44782F697BF8E6894CBA1332.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/GameOver.uasset'
+[2023.02.27-14.55.22:651][798]AssetCheck: New page: Asset Save: GameOver
+[2023.02.27-14.55.22:651][798]LogContentValidation: Display: Validating WidgetBlueprint /Game/blueprints/GameOver.GameOver
+[2023.02.27-14.55.42:080][636]LogMetaData: Removing '/Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.27-14.55.42:080][636]LogMetaData: Removing '/Game/Levels/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.02.27-14.55.42:418][636]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap_BuiltDataFD5AF752467C6EAA1E09A29F31EDBBDF.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.27-14.55.42:501][636]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2023.02.27-14.55.42:550][636]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap15EB52694E37FF198252DAB8BFDA8E0E.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/ThirdPersonExampleMap.umap'
+[2023.02.27-14.55.42:558][636]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.138
+[2023.02.27-14.55.42:838][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.27-14.55.42:916][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.27-14.55.43:018][636]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2023.02.27-14.55.43:100][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.02.27-14.55.43:315][636]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-14.55.43:315][636]LogContentValidation: Display: Validating World /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-14.55.43:315][636]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.27-14.55.46:804][767]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.02.27-14.55.46:864][767]LogContentBrowser: Creating deferred item: NewWorld
+[2023.02.27-14.55.52:516][ 78]LogContentBrowser: Attempting asset rename: NewWorld -> GameOver
+[2023.02.27-14.55.52:550][ 78]LogContentBrowser: End creating deferred item NewWorld
+[2023.02.27-14.55.54:401][158]LogUObjectHash: Compacting FUObjectHashTables data took  14.94ms
+[2023.02.27-14.55.56:792][158]LogSlate: Window 'Save Content' being destroyed
+[2023.02.27-14.55.57:017][158]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Enemy4D03803C441B67F58DB5FFB3091FA8DD.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Enemy.uasset'
+[2023.02.27-14.55.57:048][158]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOver60F5010C4D6FB395C10102A4443F363F.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/GameOver.uasset'
+[2023.02.27-14.55.57:194][158]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2023.02.27-14.55.57:199][158]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOver47D1601F45223CAD6858C689D3470612.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/GameOver.umap'
+[2023.02.27-14.55.57:201][158]LogFileHelpers: Saving map 'GameOver' took 0.150
+[2023.02.27-14.55.57:266][158]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/GameOver.GameOver
+[2023.02.27-14.55.57:266][158]LightingResults: New page: Lighting Build
+[2023.02.27-14.55.57:266][158]LoadErrors: New page: Loading map: GameOver.umap
+[2023.02.27-14.55.57:272][158]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.55.57:274][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.55.57:274][158]MapCheck: New page: Map Check
+[2023.02.27-14.55.57:274][158]LightingResults: New page: Lighting Build
+[2023.02.27-14.55.57:356][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-14.55.57:371][158]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2023.02.27-14.55.57:380][158]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameOver'.
+[2023.02.27-14.55.57:381][158]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.27-14.55.57:381][158]LogAIModule: Creating AISystem for world GameOver
+[2023.02.27-14.55.57:470][158]LogUObjectHash: Compacting FUObjectHashTables data took  12.16ms
+[2023.02.27-14.55.57:478][158]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.27-14.55.57:478][158]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2023.02.27-14.55.57:478][158]LogFileHelpers: Loading map 'GameOver' took 0.212
+[2023.02.27-14.55.57:520][158]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-14.55.57:520][158]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Enemy.Enemy
+[2023.02.27-14.55.57:520][158]LogContentValidation: Display: Validating WidgetBlueprint /Game/blueprints/GameOver.GameOver
+[2023.02.27-14.55.57:520][158]LogContentValidation: Display: Validating World /Game/Levels/GameOver.GameOver
+[2023.02.27-14.56.11:520][819]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/GameOver.GameOver:PersistentLevel.GameOver
+[2023.02.27-14.58.00:942][719]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.27-14.58.01:039][719]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.27-14.58.07:629][982]BlueprintLog: New page: Compile GameOver
+[2023.02.27-14.58.07:759][982]LogUObjectHash: Compacting FUObjectHashTables data took  14.97ms
+[2023.02.27-14.58.08:670][  7]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2023.02.27-14.58.08:696][  7]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOver0008BE834C879B28EB1D46BBDF44416F.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/GameOver.umap'
+[2023.02.27-14.58.08:703][  7]LogFileHelpers: Saving map 'GameOver' took 0.127
+[2023.02.27-14.58.08:749][  7]AssetCheck: New page: Asset Save: GameOver
+[2023.02.27-14.58.08:749][  7]LogContentValidation: Display: Validating World /Game/Levels/GameOver.GameOver
+[2023.02.27-14.58.38:002][285]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.02.27-14.58.38:111][285]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-14.58.38:111][285]LightingResults: New page: Lighting Build
+[2023.02.27-14.58.38:112][285]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.02.27-14.58.38:132][285]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.58.38:132][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.58.38:225][285]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.58.38:226][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.58.38:226][285]MapCheck: New page: Map Check
+[2023.02.27-14.58.38:226][285]LightingResults: New page: Lighting Build
+[2023.02.27-14.58.38:309][285]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-14.58.38:331][285]LogUObjectHash: Compacting FUObjectHashTables data took  10.94ms
+[2023.02.27-14.58.38:338][285]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-14.58.38:355][285]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.27-14.58.38:355][285]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-14.58.38:447][285]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2023.02.27-14.58.38:455][285]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.27-14.58.38:456][285]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.335ms to complete.
+[2023.02.27-14.58.38:456][285]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.344
+[2023.02.27-14.58.48:385][573]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2023.02.27-14.58.48:438][573]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap20323C8744A4786997E9FF9664F5898A.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/ThirdPersonExampleMap.umap'
+[2023.02.27-14.58.48:860][573]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap_BuiltData393D165D4207534E2FB6DA9E5F9A28A9.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.27-14.58.48:914][573]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-14.58.48:914][573]LogContentValidation: Display: Validating World /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-14.58.48:915][573]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.27-14.58.54:793][725]LogUObjectHash: Compacting FUObjectHashTables data took  11.70ms
+[2023.02.27-14.58.54:890][725]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/GameOver.GameOver
+[2023.02.27-14.58.54:890][725]LightingResults: New page: Lighting Build
+[2023.02.27-14.58.54:891][725]LoadErrors: New page: Loading map: GameOver.umap
+[2023.02.27-14.58.54:897][725]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.58.54:898][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.58.54:898][725]MapCheck: New page: Map Check
+[2023.02.27-14.58.54:898][725]LightingResults: New page: Lighting Build
+[2023.02.27-14.58.54:994][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-14.58.55:009][725]LogUObjectHash: Compacting FUObjectHashTables data took  12.23ms
+[2023.02.27-14.58.55:013][725]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameOver'.
+[2023.02.27-14.58.55:017][725]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.27-14.58.55:017][725]LogAIModule: Creating AISystem for world GameOver
+[2023.02.27-14.58.55:114][725]LogUObjectHash: Compacting FUObjectHashTables data took  10.84ms
+[2023.02.27-14.58.55:125][725]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.27-14.58.55:125][725]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.296ms to complete.
+[2023.02.27-14.58.55:125][725]LogFileHelpers: Loading map 'GameOver' took 0.236
+[2023.02.27-14.58.56:305][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.02.27-14.58.56:339][770]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOverFE27A05E4CD7940415438FA43C431AEB.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/GameOver.umap'
+[2023.02.27-14.58.56:395][770]AssetCheck: New page: Asset Save: GameOver
+[2023.02.27-14.58.56:395][770]LogContentValidation: Display: Validating World /Game/Levels/GameOver.GameOver
+[2023.02.27-14.59.00:332][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.27-14.59.00:418][924]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-14.59.00:418][924]LightingResults: New page: Lighting Build
+[2023.02.27-14.59.00:419][924]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.02.27-14.59.00:422][924]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-14.59.00:422][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-14.59.00:423][924]MapCheck: New page: Map Check
+[2023.02.27-14.59.00:423][924]LightingResults: New page: Lighting Build
+[2023.02.27-14.59.00:502][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-14.59.00:513][924]LogUObjectHash: Compacting FUObjectHashTables data took   8.84ms
+[2023.02.27-14.59.00:516][924]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-14.59.00:530][924]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.27-14.59.00:530][924]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-14.59.00:622][924]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2023.02.27-14.59.00:627][924]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.27-14.59.00:628][924]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.258ms to complete.
+[2023.02.27-14.59.00:628][924]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.209
+[2023.02.27-15.00.59:320][685]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-15.00.59:353][685]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.27-15.00.59:356][685]LogPlayLevel: [PlayLevel] Compiling Enemy before play...
+[2023.02.27-15.00.59:508][685]LogPlayLevel: [PlayLevel] Compiling GameOver before play...
+[2023.02.27-15.00.59:636][685]LogUObjectHash: Compacting FUObjectHashTables data took  10.17ms
+[2023.02.27-15.00.59:645][685]LogPlayLevel: PlayLevel: Blueprint regeneration took 293 ms (2 blueprints)
+[2023.02.27-15.00.59:646][685]PIE: New page: PIE session: ThirdPersonExampleMap (27 Feb 2023, 15:00:59)
+[2023.02.27-15.00.59:651][685]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.00.59:684][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032169s)
+[2023.02.27-15.00.59:688][685]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-15.00.59:691][685]LogPlayLevel: PIE: World Init took: (0.006454s)
+[2023.02.27-15.00.59:691][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039790s)
+[2023.02.27-15.00.59:772][685]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2023.02.27-15.00.59:780][685]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.27-15.00.59:784][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-15.00.59:784][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-15.00.59:785][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-15.00.59:785][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-15.00.59:785][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-15.00.59:785][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-15.00.59:785][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-15.00.59:785][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-15.00.59:792][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-15.00.59:792][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-15.00.59:792][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-15.00.59:792][685]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-15.00.59:828][685]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-15.00.59:828][685]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-15.01.00:199][685]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-15.01.00:204][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-15.01.00:204][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-15.01.00:206][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-15.01.00:207][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-15.01.00:208][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-15.01.00:208][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-15.01.00:212][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-15.01.00:212][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-15.01.00:212][685]LogInit: FAudioDevice initialized.
+[2023.02.27-15.01.00:213][685]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-15.01.00:277][685]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.01.00:284][685]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.02.27-15.01.00
+[2023.02.27-15.01.00:291][685]LogWorld: Bringing up level for play took: 0.012311
+[2023.02.27-15.01.00:292][685]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.02.27-15.01.00:309][685]PIE: Server logged in
+[2023.02.27-15.01.00:310][685]PIE: Play in editor total start time 0.965 seconds.
+[2023.02.27-15.01.04:679][888]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.04:679][888]LogPackageName: SearchForPackageOnDisk took   0.373s to resolve GameOver.
+[2023.02.27-15.01.04:814][888]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.04:814][888]LogPackageName: SearchForPackageOnDisk took   0.134s to resolve GameOver.
+[2023.02.27-15.01.04:982][889]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.04:982][889]LogPackageName: SearchForPackageOnDisk took   0.133s to resolve GameOver.
+[2023.02.27-15.01.05:092][889]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.05:092][889]LogPackageName: SearchForPackageOnDisk took   0.110s to resolve GameOver.
+[2023.02.27-15.01.05:695][906]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.05:695][906]LogPackageName: SearchForPackageOnDisk took   0.152s to resolve GameOver.
+[2023.02.27-15.01.05:813][906]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.05:813][906]LogPackageName: SearchForPackageOnDisk took   0.118s to resolve GameOver.
+[2023.02.27-15.01.05:974][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.05:974][907]LogPackageName: SearchForPackageOnDisk took   0.143s to resolve GameOver.
+[2023.02.27-15.01.06:087][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:087][907]LogPackageName: SearchForPackageOnDisk took   0.114s to resolve GameOver.
+[2023.02.27-15.01.06:208][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:208][907]LogPackageName: SearchForPackageOnDisk took   0.121s to resolve GameOver.
+[2023.02.27-15.01.06:322][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:322][907]LogPackageName: SearchForPackageOnDisk took   0.114s to resolve GameOver.
+[2023.02.27-15.01.06:435][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:435][907]LogPackageName: SearchForPackageOnDisk took   0.112s to resolve GameOver.
+[2023.02.27-15.01.06:550][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:550][907]LogPackageName: SearchForPackageOnDisk took   0.115s to resolve GameOver.
+[2023.02.27-15.01.06:656][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:656][907]LogPackageName: SearchForPackageOnDisk took   0.106s to resolve GameOver.
+[2023.02.27-15.01.06:774][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:774][907]LogPackageName: SearchForPackageOnDisk took   0.118s to resolve GameOver.
+[2023.02.27-15.01.06:884][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:884][907]LogPackageName: SearchForPackageOnDisk took   0.109s to resolve GameOver.
+[2023.02.27-15.01.06:983][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.06:983][907]LogPackageName: SearchForPackageOnDisk took   0.100s to resolve GameOver.
+[2023.02.27-15.01.07:100][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.07:100][907]LogPackageName: SearchForPackageOnDisk took   0.116s to resolve GameOver.
+[2023.02.27-15.01.07:224][907]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.07:224][907]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve GameOver.
+[2023.02.27-15.01.08:267][940]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.08:267][940]LogPackageName: SearchForPackageOnDisk took   0.167s to resolve GameOver.
+[2023.02.27-15.01.08:386][940]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.08:388][940]LogPackageName: SearchForPackageOnDisk took   0.120s to resolve GameOver.
+[2023.02.27-15.01.08:537][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.08:537][941]LogPackageName: SearchForPackageOnDisk took   0.130s to resolve GameOver.
+[2023.02.27-15.01.08:649][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.08:649][941]LogPackageName: SearchForPackageOnDisk took   0.111s to resolve GameOver.
+[2023.02.27-15.01.08:767][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.08:767][941]LogPackageName: SearchForPackageOnDisk took   0.119s to resolve GameOver.
+[2023.02.27-15.01.08:893][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.08:893][941]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve GameOver.
+[2023.02.27-15.01.09:009][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.09:009][941]LogPackageName: SearchForPackageOnDisk took   0.116s to resolve GameOver.
+[2023.02.27-15.01.09:123][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.09:123][941]LogPackageName: SearchForPackageOnDisk took   0.114s to resolve GameOver.
+[2023.02.27-15.01.09:235][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.09:235][941]LogPackageName: SearchForPackageOnDisk took   0.111s to resolve GameOver.
+[2023.02.27-15.01.09:336][941]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.09:336][941]LogPackageName: SearchForPackageOnDisk took   0.101s to resolve GameOver.
+[2023.02.27-15.01.12:518][ 84]LogBlueprintUserMessages: [Prisoner_2] 1
+[2023.02.27-15.01.13:897][139]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.13:897][139]LogPackageName: SearchForPackageOnDisk took   0.137s to resolve GameOver.
+[2023.02.27-15.01.14:000][139]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:000][139]LogPackageName: SearchForPackageOnDisk took   0.104s to resolve GameOver.
+[2023.02.27-15.01.14:162][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:162][140]LogPackageName: SearchForPackageOnDisk took   0.142s to resolve GameOver.
+[2023.02.27-15.01.14:329][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:329][140]LogPackageName: SearchForPackageOnDisk took   0.163s to resolve GameOver.
+[2023.02.27-15.01.14:433][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:433][140]LogPackageName: SearchForPackageOnDisk took   0.103s to resolve GameOver.
+[2023.02.27-15.01.14:559][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:559][140]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve GameOver.
+[2023.02.27-15.01.14:664][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:664][140]LogPackageName: SearchForPackageOnDisk took   0.105s to resolve GameOver.
+[2023.02.27-15.01.14:768][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:768][140]LogPackageName: SearchForPackageOnDisk took   0.104s to resolve GameOver.
+[2023.02.27-15.01.14:871][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:871][140]LogPackageName: SearchForPackageOnDisk took   0.102s to resolve GameOver.
+[2023.02.27-15.01.14:982][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.14:982][140]LogPackageName: SearchForPackageOnDisk took   0.111s to resolve GameOver.
+[2023.02.27-15.01.15:083][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.15:083][140]LogPackageName: SearchForPackageOnDisk took   0.102s to resolve GameOver.
+[2023.02.27-15.01.15:209][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.15:209][140]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve GameOver.
+[2023.02.27-15.01.15:327][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.15:328][140]LogPackageName: SearchForPackageOnDisk took   0.118s to resolve GameOver.
+[2023.02.27-15.01.15:447][140]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.15:447][140]LogPackageName: SearchForPackageOnDisk took   0.120s to resolve GameOver.
+[2023.02.27-15.01.15:632][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.15:632][141]LogPackageName: SearchForPackageOnDisk took   0.163s to resolve GameOver.
+[2023.02.27-15.01.15:777][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.15:777][141]LogPackageName: SearchForPackageOnDisk took   0.144s to resolve GameOver.
+[2023.02.27-15.01.15:875][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.15:875][141]LogPackageName: SearchForPackageOnDisk took   0.098s to resolve GameOver.
+[2023.02.27-15.01.16:001][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:001][141]LogPackageName: SearchForPackageOnDisk took   0.126s to resolve GameOver.
+[2023.02.27-15.01.16:112][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:112][141]LogPackageName: SearchForPackageOnDisk took   0.111s to resolve GameOver.
+[2023.02.27-15.01.16:217][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:217][141]LogPackageName: SearchForPackageOnDisk took   0.105s to resolve GameOver.
+[2023.02.27-15.01.16:323][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:323][141]LogPackageName: SearchForPackageOnDisk took   0.105s to resolve GameOver.
+[2023.02.27-15.01.16:436][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:436][141]LogPackageName: SearchForPackageOnDisk took   0.113s to resolve GameOver.
+[2023.02.27-15.01.16:544][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:545][141]LogPackageName: SearchForPackageOnDisk took   0.109s to resolve GameOver.
+[2023.02.27-15.01.16:659][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:659][141]LogPackageName: SearchForPackageOnDisk took   0.114s to resolve GameOver.
+[2023.02.27-15.01.16:769][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:769][141]LogPackageName: SearchForPackageOnDisk took   0.110s to resolve GameOver.
+[2023.02.27-15.01.16:894][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.16:894][141]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve GameOver.
+[2023.02.27-15.01.17:004][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.17:004][141]LogPackageName: SearchForPackageOnDisk took   0.110s to resolve GameOver.
+[2023.02.27-15.01.17:104][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.17:104][141]LogPackageName: SearchForPackageOnDisk took   0.100s to resolve GameOver.
+[2023.02.27-15.01.17:209][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.17:209][141]LogPackageName: SearchForPackageOnDisk took   0.105s to resolve GameOver.
+[2023.02.27-15.01.17:322][141]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.17:322][141]LogPackageName: SearchForPackageOnDisk took   0.113s to resolve GameOver.
+[2023.02.27-15.01.21:544][319]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.21:544][319]LogPackageName: SearchForPackageOnDisk took   0.110s to resolve GameOver.
+[2023.02.27-15.01.21:709][321]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.21:709][321]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve GameOver.
+[2023.02.27-15.01.21:908][322]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.21:908][322]LogPackageName: SearchForPackageOnDisk took   0.179s to resolve GameOver.
+[2023.02.27-15.01.22:030][322]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:030][322]LogPackageName: SearchForPackageOnDisk took   0.121s to resolve GameOver.
+[2023.02.27-15.01.22:142][322]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:142][322]LogPackageName: SearchForPackageOnDisk took   0.112s to resolve GameOver.
+[2023.02.27-15.01.22:243][322]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:243][322]LogPackageName: SearchForPackageOnDisk took   0.101s to resolve GameOver.
+[2023.02.27-15.01.22:345][322]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:346][322]LogPackageName: SearchForPackageOnDisk took   0.102s to resolve GameOver.
+[2023.02.27-15.01.22:448][322]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:448][322]LogPackageName: SearchForPackageOnDisk took   0.103s to resolve GameOver.
+[2023.02.27-15.01.22:629][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:629][323]LogPackageName: SearchForPackageOnDisk took   0.159s to resolve GameOver.
+[2023.02.27-15.01.22:726][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:726][323]LogPackageName: SearchForPackageOnDisk took   0.097s to resolve GameOver.
+[2023.02.27-15.01.22:834][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:834][323]LogPackageName: SearchForPackageOnDisk took   0.108s to resolve GameOver.
+[2023.02.27-15.01.22:952][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.22:952][323]LogPackageName: SearchForPackageOnDisk took   0.117s to resolve GameOver.
+[2023.02.27-15.01.23:064][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:064][323]LogPackageName: SearchForPackageOnDisk took   0.113s to resolve GameOver.
+[2023.02.27-15.01.23:188][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:188][323]LogPackageName: SearchForPackageOnDisk took   0.123s to resolve GameOver.
+[2023.02.27-15.01.23:288][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:288][323]LogPackageName: SearchForPackageOnDisk took   0.100s to resolve GameOver.
+[2023.02.27-15.01.23:393][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:393][323]LogPackageName: SearchForPackageOnDisk took   0.105s to resolve GameOver.
+[2023.02.27-15.01.23:506][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:506][323]LogPackageName: SearchForPackageOnDisk took   0.113s to resolve GameOver.
+[2023.02.27-15.01.23:611][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:611][323]LogPackageName: SearchForPackageOnDisk took   0.104s to resolve GameOver.
+[2023.02.27-15.01.23:732][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:732][323]LogPackageName: SearchForPackageOnDisk took   0.120s to resolve GameOver.
+[2023.02.27-15.01.23:847][323]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.23:847][323]LogPackageName: SearchForPackageOnDisk took   0.116s to resolve GameOver.
+[2023.02.27-15.01.25:828][397]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.25:828][397]LogPackageName: SearchForPackageOnDisk took   0.158s to resolve GameOver.
+[2023.02.27-15.01.25:952][397]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.25:952][397]LogPackageName: SearchForPackageOnDisk took   0.125s to resolve GameOver.
+[2023.02.27-15.01.26:106][398]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.26:106][398]LogPackageName: SearchForPackageOnDisk took   0.134s to resolve GameOver.
+[2023.02.27-15.01.26:218][398]LogPackageName: Warning: Found ambiguous long package name for 'GameOver'. Returning '/Game/blueprints/GameOver', but could also be '/Game/Levels/GameOver'.
+[2023.02.27-15.01.26:219][398]LogPackageName: SearchForPackageOnDisk took   0.113s to resolve GameOver.
+[2023.02.27-15.01.28:077][480]LogStreaming: Display: FlushAsyncLoading: 5 QueuedPackages, 77 AsyncPackages
+[2023.02.27-15.01.28:256][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-15.01.28:256][480]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.01.28:257][480]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.01.28:258][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.01.28:282][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-15.01.28:321][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.01.28:422][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-15.01.28:425][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-15.01.28:428][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-15.01.28:475][480]LogUObjectHash: Compacting FUObjectHashTables data took  11.05ms
+[2023.02.27-15.01.28:532][481]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.27-15.01.30:451][560]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2023.02.27-15.04.25:820][ 13]BlueprintLog: New page: Compile Enemy
+[2023.02.27-15.04.25:832][ 13]LogBlueprint: Error: [AssetLog] C:\Users\glanv\Documents\the illuminati is unreal\GlobalGameJam\ChallengeWeek2ElectricBoogaloo\blueprints\Content\blueprints\Enemy.uasset: [Compiler] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.02.27-15.04.26:053][ 13]LogUObjectHash: Compacting FUObjectHashTables data took  12.24ms
+[2023.02.27-15.04.26:735][ 26]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Enemy99511A754323AA96C87B57836AB0A0B1.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Enemy.uasset'
+[2023.02.27-15.04.26:782][ 26]AssetCheck: New page: Asset Save: Enemy
+[2023.02.27-15.04.26:782][ 26]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Enemy.Enemy
+[2023.02.27-15.05.24:122][882]BlueprintLog: New page: Compile Enemy
+[2023.02.27-15.05.24:302][882]LogUObjectHash: Compacting FUObjectHashTables data took  12.88ms
+[2023.02.27-15.05.24:981][893]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Enemy48523FB94295ADE32AB2DEB4A1598AF1.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Enemy.uasset'
+[2023.02.27-15.05.25:028][893]AssetCheck: New page: Asset Save: Enemy
+[2023.02.27-15.05.25:028][893]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Enemy.Enemy
+[2023.02.27-15.05.31:180][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-15.05.31:203][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-15.05.31:203][ 87]PIE: New page: PIE session: ThirdPersonExampleMap (27 Feb 2023, 15:05:31)
+[2023.02.27-15.05.31:203][ 87]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.05.31:231][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027768s)
+[2023.02.27-15.05.31:233][ 87]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-15.05.31:234][ 87]LogPlayLevel: PIE: World Init took: (0.001894s)
+[2023.02.27-15.05.31:234][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029911s)
+[2023.02.27-15.05.31:319][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2023.02.27-15.05.31:324][ 87]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.27-15.05.31:324][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-15.05.31:324][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-15.05.31:324][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-15.05.31:324][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-15.05.31:324][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-15.05.31:324][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-15.05.31:324][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-15.05.31:324][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-15.05.31:325][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-15.05.31:325][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-15.05.31:325][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-15.05.31:325][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-15.05.31:332][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-15.05.31:333][ 87]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-15.05.31:584][ 87]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.02.27-15.05.31:584][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-15.05.31:584][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-15.05.31:584][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-15.05.31:585][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-15.05.31:585][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-15.05.31:585][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-15.05.31:589][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-15.05.31:589][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-15.05.31:589][ 87]LogInit: FAudioDevice initialized.
+[2023.02.27-15.05.31:589][ 87]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-15.05.31:606][ 87]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.05.31:612][ 87]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.02.27-15.05.31
+[2023.02.27-15.05.31:613][ 87]LogWorld: Bringing up level for play took: 0.004672
+[2023.02.27-15.05.31:613][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.02.27-15.05.31:619][ 87]PIE: Server logged in
+[2023.02.27-15.05.31:621][ 87]PIE: Play in editor total start time 0.426 seconds.
+[2023.02.27-15.05.35:474][270]LogBlueprintUserMessages: [Prisoner_2] 1
+[2023.02.27-15.05.36:915][348]LogNet: Browse: /Game/Levels/GameOver
+[2023.02.27-15.05.36:919][348]LogLoad: LoadMap: /Game/Levels/GameOver
+[2023.02.27-15.05.36:919][348]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.05.36:922][348]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.05.36:922][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.05.36:993][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.05.37:009][348]LogUObjectHash: Compacting FUObjectHashTables data took  12.14ms
+[2023.02.27-15.05.37:033][348]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameOver'.
+[2023.02.27-15.05.37:035][348]LogAIModule: Creating AISystem for world GameOver
+[2023.02.27-15.05.37:036][348]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.05.37:040][348]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2023.02.27-15.05.37
+[2023.02.27-15.05.37:040][348]LogWorld: Bringing up level for play took: 0.002311
+[2023.02.27-15.05.37:041][348]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.27-15.05.37:056][348]LogLoad: Took 0.136987 seconds to LoadMap(/Game/Levels/GameOver)
+[2023.02.27-15.05.45:794][840]LogRenderer: Reallocating scene render targets to support 700x712 Format 10 NumSamples 1 (Frame:487).
+[2023.02.27-15.05.45:864][841]LogRenderer: Reallocating scene render targets to support 800x712 Format 10 NumSamples 1 (Frame:488).
+[2023.02.27-15.05.45:959][842]LogRenderer: Reallocating scene render targets to support 904x712 Format 10 NumSamples 1 (Frame:489).
+[2023.02.27-15.05.46:044][843]LogRenderer: Reallocating scene render targets to support 960x712 Format 10 NumSamples 1 (Frame:490).
+[2023.02.27-15.05.46:120][844]LogRenderer: Reallocating scene render targets to support 964x712 Format 10 NumSamples 1 (Frame:491).
+[2023.02.27-15.05.46:239][845]LogRenderer: Reallocating scene render targets to support 1088x712 Format 10 NumSamples 1 (Frame:492).
+[2023.02.27-15.05.46:317][846]LogRenderer: Reallocating scene render targets to support 1280x712 Format 10 NumSamples 1 (Frame:493).
+[2023.02.27-15.07.12:820][438]LogNet: Browse: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.12:820][438]LogLoad: LoadMap: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.12:820][438]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameOver
+[2023.02.27-15.07.12:822][438]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.07.12:822][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.07.12:889][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.07.12:902][438]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2023.02.27-15.07.12:904][438]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.07.12:918][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013218s)
+[2023.02.27-15.07.12:919][438]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-15.07.12:920][438]LogPlayLevel: PIE: World Init took: (0.002158s)
+[2023.02.27-15.07.12:920][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015796s)
+[2023.02.27-15.07.12:920][438]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-15.07.12:921][438]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.07.12:926][438]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.02.27-15.07.12
+[2023.02.27-15.07.12:927][438]LogWorld: Bringing up level for play took: 0.005070
+[2023.02.27-15.07.12:930][438]LogLoad: Took 0.109154 seconds to LoadMap(/Game/Levels/UEDPIE_0_ThirdPersonExampleMap)
+[2023.02.27-15.07.16:585][579]LogNet: Browse: /Game/Levels/GameOver
+[2023.02.27-15.07.16:585][579]LogLoad: LoadMap: /Game/Levels/GameOver
+[2023.02.27-15.07.16:585][579]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.07.16:586][579]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.07.16:587][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.07.16:671][579]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.07.16:679][579]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2023.02.27-15.07.16:691][579]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameOver'.
+[2023.02.27-15.07.16:693][579]LogAIModule: Creating AISystem for world GameOver
+[2023.02.27-15.07.16:693][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.07.16:695][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2023.02.27-15.07.16
+[2023.02.27-15.07.16:696][579]LogWorld: Bringing up level for play took: 0.001253
+[2023.02.27-15.07.16:696][579]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.27-15.07.16:699][579]LogLoad: Took 0.113850 seconds to LoadMap(/Game/Levels/GameOver)
+[2023.02.27-15.07.18:039][643]LogNet: Browse: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.18:039][643]LogLoad: LoadMap: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.18:039][643]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameOver
+[2023.02.27-15.07.18:040][643]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.07.18:040][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.07.18:147][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.07.18:154][643]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2023.02.27-15.07.18:155][643]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.07.18:174][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018911s)
+[2023.02.27-15.07.18:176][643]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-15.07.18:176][643]LogPlayLevel: PIE: World Init took: (0.001840s)
+[2023.02.27-15.07.18:176][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021012s)
+[2023.02.27-15.07.18:176][643]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-15.07.18:176][643]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.07.18:180][643]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.02.27-15.07.18
+[2023.02.27-15.07.18:181][643]LogWorld: Bringing up level for play took: 0.003121
+[2023.02.27-15.07.18:183][643]LogLoad: Took 0.143547 seconds to LoadMap(/Game/Levels/UEDPIE_0_ThirdPersonExampleMap)
+[2023.02.27-15.07.19:553][691]LogNet: Browse: /Game/Levels/GameOver
+[2023.02.27-15.07.19:553][691]LogLoad: LoadMap: /Game/Levels/GameOver
+[2023.02.27-15.07.19:553][691]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.07.19:555][691]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.07.19:556][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.07.19:649][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.07.19:659][691]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2023.02.27-15.07.19:674][691]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameOver'.
+[2023.02.27-15.07.19:675][691]LogAIModule: Creating AISystem for world GameOver
+[2023.02.27-15.07.19:676][691]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.07.19:678][691]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2023.02.27-15.07.19
+[2023.02.27-15.07.19:679][691]LogWorld: Bringing up level for play took: 0.001112
+[2023.02.27-15.07.19:679][691]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.27-15.07.19:683][691]LogLoad: Took 0.130408 seconds to LoadMap(/Game/Levels/GameOver)
+[2023.02.27-15.07.20:618][735]LogNet: Browse: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.20:618][735]LogLoad: LoadMap: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.20:618][735]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameOver
+[2023.02.27-15.07.20:619][735]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.07.20:619][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.07.20:715][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.07.20:728][735]LogUObjectHash: Compacting FUObjectHashTables data took  11.91ms
+[2023.02.27-15.07.20:729][735]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.07.20:751][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022365s)
+[2023.02.27-15.07.20:754][735]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-15.07.20:755][735]LogPlayLevel: PIE: World Init took: (0.003244s)
+[2023.02.27-15.07.20:755][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025982s)
+[2023.02.27-15.07.20:755][735]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-15.07.20:755][735]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.07.20:760][735]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.02.27-15.07.20
+[2023.02.27-15.07.20:760][735]LogWorld: Bringing up level for play took: 0.003944
+[2023.02.27-15.07.20:770][735]LogLoad: Took 0.151539 seconds to LoadMap(/Game/Levels/UEDPIE_0_ThirdPersonExampleMap)
+[2023.02.27-15.07.22:563][801]LogNet: Browse: /Game/Levels/GameOver
+[2023.02.27-15.07.22:563][801]LogLoad: LoadMap: /Game/Levels/GameOver
+[2023.02.27-15.07.22:563][801]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.07.22:565][801]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.07.22:565][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.07.22:643][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.07.22:651][801]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2023.02.27-15.07.22:660][801]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameOver'.
+[2023.02.27-15.07.22:662][801]LogAIModule: Creating AISystem for world GameOver
+[2023.02.27-15.07.22:662][801]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.07.22:665][801]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameOver.GameOver up for play (max tick rate 60) at 2023.02.27-15.07.22
+[2023.02.27-15.07.22:666][801]LogWorld: Bringing up level for play took: 0.001374
+[2023.02.27-15.07.22:667][801]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.27-15.07.22:670][801]LogLoad: Took 0.106938 seconds to LoadMap(/Game/Levels/GameOver)
+[2023.02.27-15.07.23:928][866]LogNet: Browse: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.23:928][866]LogLoad: LoadMap: /Game/Levels/ThirdPersonExampleMap
+[2023.02.27-15.07.23:928][866]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameOver
+[2023.02.27-15.07.23:929][866]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.07.23:930][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.07.24:033][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.07.24:044][866]LogUObjectHash: Compacting FUObjectHashTables data took   8.01ms
+[2023.02.27-15.07.24:046][866]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.07.24:067][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021418s)
+[2023.02.27-15.07.24:069][866]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.02.27-15.07.24:069][866]LogPlayLevel: PIE: World Init took: (0.002119s)
+[2023.02.27-15.07.24:070][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023927s)
+[2023.02.27-15.07.24:070][866]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.02.27-15.07.24:070][866]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.27-15.07.24:075][866]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.02.27-15.07.24
+[2023.02.27-15.07.24:076][866]LogWorld: Bringing up level for play took: 0.004212
+[2023.02.27-15.07.24:079][866]LogLoad: Took 0.150854 seconds to LoadMap(/Game/Levels/UEDPIE_0_ThirdPersonExampleMap)
+[2023.02.27-15.34.27:484][632]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/GameOver2C37EE624E9C547817BDD8946B25A6DA.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/GameOver.uasset'
+[2023.02.27-15.34.27:582][632]AssetCheck: New page: Asset Save: GameOver
+[2023.02.27-15.34.27:582][632]LogContentValidation: Display: Validating WidgetBlueprint /Game/blueprints/GameOver.GameOver
+[2023.02.27-15.34.32:830][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-15.34.32:831][812]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.02.27-15.34.32:834][812]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-15.34.32:836][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.34.32:904][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-15.34.32:955][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-15.34.33:015][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-15.34.33:018][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-15.34.33:022][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-15.34.33:059][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-15.34.33:087][812]LogUObjectHash: Compacting FUObjectHashTables data took  20.64ms
+[2023.02.27-15.34.33:279][813]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.27-15.34.33:851][820]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2023.02.27-15.34.33:919][820]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap4E3DEB54406E7D2E99D367B062342C80.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/ThirdPersonExampleMap.umap'
+[2023.02.27-15.34.34:354][820]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/ThirdPersonExampleMap_BuiltDataD13ADEA94EF394DEEB3B2AA9969430E8.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.27-15.34.34:403][820]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-15.34.34:403][820]LogContentValidation: Display: Validating World /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-15.34.34:403][820]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
