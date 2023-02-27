@@ -1313,3 +1313,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.27-15.34.14:591][381]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.27-15.34.14:591][381]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.02.27-15.34.14:591][381]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.27-15.35.42:148][689]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/LewisModels/bobball.bobball
+[2023.02.27-15.35.42:571][690]LogRenderer: Reallocating scene render targets to support 1436x920 Format 10 NumSamples 1 (Frame:1).
+[2023.02.27-15.36.10:832][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/LewisModels/bobball" FILE="V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/LewisModels/bobball.uasset" SILENT=true
+[2023.02.27-15.36.10:842][272]LogSavePackage: Moving 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/bobball074D2C02457F726B000C438C209BDE99.tmp' to 'V:/repo/ChallengeWeek2ElectricBoogaloo/blueprints/Content/ThirdPersonBP/LewisModels/bobball.uasset'
+[2023.02.27-15.36.10:854][272]AssetCheck: New page: Asset Save: bobball
+[2023.02.27-15.36.10:854][272]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/LewisModels/bobball.bobball
