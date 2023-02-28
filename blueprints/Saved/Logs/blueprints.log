@@ -3569,3 +3569,1546 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.02.28-14.36.50:809][826]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/Levels/MainLevel_sharedassets/Grass_LayerInfo.Grass_LayerInfo
 [2023.02.28-14.36.50:809][826]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/Levels/MainLevel_sharedassets/Rock_LayerInfo.Rock_LayerInfo
 [2023.02.28-14.36.50:809][826]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/Levels/MainLevel_sharedassets/LayerAuto_LayerInfo.LayerAuto_LayerInfo
+[2023.02.28-14.45.11:569][175]LogTexture: Display: Building textures: Texture2D_524 (BGRA8, 32X32)
+[2023.02.28-14.45.11:582][175]LogTexture: Display: Building textures: Texture2D_525 (BGRA8, 32X32)
+[2023.02.28-14.45.11:584][175]LogTexture: Display: Building textures: Texture2D_526 (BGRA8, 32X32)
+[2023.02.28-14.45.11:589][175]LogTexture: Display: Building textures: Texture2D_527 (BGRA8, 32X32)
+[2023.02.28-14.45.11:589][175]LogTexture: Display: Building textures: Texture2D_528 (BGRA8, 32X32)
+[2023.02.28-14.45.11:589][175]LogTexture: Display: Building textures: Texture2D_529 (BGRA8, 32X32)
+[2023.02.28-14.45.11:628][175]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3080 in PCD3D_SM5, Default, SM5 (DDC key hash: A38B9D003D729887EFBBFC0C56C3741A92F9C881), compiling. 
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 1
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 33
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 32
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 31
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 30
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 29
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 28
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 27
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 26
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 25
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 24
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 23
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 22
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 21
+[2023.02.28-14.45.11:653][177]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.11:696][177]LogTexture: Display: Building textures: Texture2D_530 (BGRA8, 32X32)
+[2023.02.28-14.45.11:735][178]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 32X32)
+[2023.02.28-14.45.11:754][179]LogTexture: Display: Building textures: Texture2D_532 (BGRA8, 32X32)
+[2023.02.28-14.45.11:827][179]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 32X32)
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 20
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 18
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 16
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 14
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 13
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 12
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 11
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 10
+[2023.02.28-14.45.12:156][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:156][180]LogTexture: Display: Building textures: Texture2D_534 (BGRA8, 32X32)
+[2023.02.28-14.45.12:176][180]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 9
+[2023.02.28-14.45.12:177][180]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 8
+[2023.02.28-14.45.12:177][180]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:177][180]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2023.02.28-14.45.12:177][180]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:237][180]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.28-14.45.12:238][180]LogShaderCompilers: Display: Total job queries 1955, among them cache hits 1224 (62.61%)
+[2023.02.28-14.45.12:238][180]LogShaderCompilers: Display: Tracking 672 distinct input hashes that result in 208 distinct outputs (30.95%)
+[2023.02.28-14.45.12:238][180]LogShaderCompilers: Display: RAM used: 1.27 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2023.02.28-14.45.12:238][180]LogShaderCompilers: Display: ================================================
+[2023.02.28-14.45.12:293][181]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 32X32)
+[2023.02.28-14.45.12:294][181]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 6
+[2023.02.28-14.45.12:294][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:333][181]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 32X32)
+[2023.02.28-14.45.12:393][181]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 5
+[2023.02.28-14.45.12:393][181]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.02.28-14.45.12:393][181]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:393][181]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 3
+[2023.02.28-14.45.12:393][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:393][181]LogTexture: Display: Building textures: Texture2D_537 (BGRA8, 32X32)
+[2023.02.28-14.45.12:393][181]LogTexture: Display: Building textures: Texture2D_538 (BGRA8, 32X32)
+[2023.02.28-14.45.12:395][181]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 2
+[2023.02.28-14.45.12:395][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.12:432][181]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 1
+[2023.02.28-14.45.12:432][181]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.28-14.45.13:962][315]LogTexture: Display: Building textures: Texture2D_539 (BGRA8, 32X32)
+[2023.02.28-14.45.13:963][315]LogTexture: Display: Building textures: Texture2D_540 (BGRA8, 32X32)
+[2023.02.28-14.45.13:979][315]LogTexture: Display: Building textures: Texture2D_541 (BGRA8, 32X32)
+[2023.02.28-14.45.13:979][315]LogTexture: Display: Building textures: Texture2D_542 (BGRA8, 32X32)
+[2023.02.28-14.45.14:081][320]LogTexture: Display: Building textures: Texture2D_543 (BGRA8, 32X32)
+[2023.02.28-14.45.14:104][320]LogTexture: Display: Building textures: Texture2D_544 (BGRA8, 32X32)
+[2023.02.28-14.45.14:125][321]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 32X32)
+[2023.02.28-14.45.14:135][322]LogTexture: Display: Building textures: Texture2D_546 (BGRA8, 32X32)
+[2023.02.28-14.45.14:135][322]LogTexture: Display: Building textures: Texture2D_547 (BGRA8, 32X32)
+[2023.02.28-14.45.14:242][326]LogTexture: Display: Building textures: Texture2D_548 (BGRA8, 32X32)
+[2023.02.28-14.45.14:250][327]LogTexture: Display: Building textures: Texture2D_549 (BGRA8, 32X32)
+[2023.02.28-14.45.14:290][328]LogTexture: Display: Building textures: Texture2D_550 (BGRA8, 32X32)
+[2023.02.28-14.45.14:361][331]LogTexture: Display: Building textures: Texture2D_551 (BGRA8, 32X32)
+[2023.02.28-14.45.14:369][332]LogTexture: Display: Building textures: Texture2D_552 (BGRA8, 32X32)
+[2023.02.28-14.45.15:069][376]LogTexture: Display: Building textures: Texture2D_553 (BGRA8, 32X32)
+[2023.02.28-14.45.15:878][421]LogTexture: Display: Building textures: Texture2D_554 (BGRA8, 32X32)
+[2023.02.28-14.45.17:402][591]LogTexture: Display: Building textures: Texture2D_555 (BGRA8, 32X32)
+[2023.02.28-14.45.17:404][591]LogTexture: Display: Building textures: Texture2D_556 (BGRA8, 32X32)
+[2023.02.28-14.45.17:409][591]LogTexture: Display: Building textures: Texture2D_557 (BGRA8, 32X32)
+[2023.02.28-14.45.17:409][591]LogTexture: Display: Building textures: Texture2D_558 (BGRA8, 32X32)
+[2023.02.28-14.45.17:479][595]LogTexture: Display: Building textures: Texture2D_559 (BGRA8, 32X32)
+[2023.02.28-14.45.17:537][597]LogTexture: Display: Building textures: Texture2D_560 (BGRA8, 32X32)
+[2023.02.28-14.45.17:559][598]LogTexture: Display: Building textures: Texture2D_561 (BGRA8, 32X32)
+[2023.02.28-14.45.17:603][599]LogTexture: Display: Building textures: Texture2D_562 (BGRA8, 32X32)
+[2023.02.28-14.45.17:613][600]LogTexture: Display: Building textures: Texture2D_563 (BGRA8, 32X32)
+[2023.02.28-14.45.17:661][602]LogTexture: Display: Building textures: Texture2D_564 (BGRA8, 32X32)
+[2023.02.28-14.45.17:686][602]LogTexture: Display: Building textures: Texture2D_565 (BGRA8, 32X32)
+[2023.02.28-14.45.17:725][604]LogTexture: Display: Building textures: Texture2D_566 (BGRA8, 32X32)
+[2023.02.28-14.45.17:758][605]LogTexture: Display: Building textures: Texture2D_567 (BGRA8, 32X32)
+[2023.02.28-14.45.19:250][776]LogTexture: Display: Building textures: Texture2D_568 (BGRA8, 32X32)
+[2023.02.28-14.45.19:252][776]LogTexture: Display: Building textures: Texture2D_569 (BGRA8, 32X32)
+[2023.02.28-14.45.19:254][776]LogTexture: Display: Building textures: Texture2D_570 (BGRA8, 32X32)
+[2023.02.28-14.45.19:258][776]LogTexture: Display: Building textures: Texture2D_571 (BGRA8, 32X32)
+[2023.02.28-14.45.19:258][776]LogTexture: Display: Building textures: Texture2D_572 (BGRA8, 32X32)
+[2023.02.28-14.45.19:258][776]LogTexture: Display: Building textures: Texture2D_573 (BGRA8, 32X32)
+[2023.02.28-14.45.19:379][782]LogTexture: Display: Building textures: Texture2D_574 (BGRA8, 32X32)
+[2023.02.28-14.45.19:484][788]LogTexture: Display: Building textures: Texture2D_575 (BGRA8, 32X32)
+[2023.02.28-14.45.19:503][789]LogTexture: Display: Building textures: Texture2D_576 (BGRA8, 32X32)
+[2023.02.28-14.45.19:532][790]LogTexture: Display: Building textures: Texture2D_577 (BGRA8, 32X32)
+[2023.02.28-14.45.19:556][790]LogTexture: Display: Building textures: Texture2D_578 (BGRA8, 32X32)
+[2023.02.28-14.45.19:630][794]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 32X32)
+[2023.02.28-14.45.19:655][796]LogTexture: Display: Building textures: Texture2D_580 (BGRA8, 32X32)
+[2023.02.28-14.45.20:798][924]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 32X32)
+[2023.02.28-14.45.20:800][924]LogTexture: Display: Building textures: Texture2D_582 (BGRA8, 32X32)
+[2023.02.28-14.45.20:815][924]LogTexture: Display: Building textures: Texture2D_585 (BGRA8, 32X32)
+[2023.02.28-14.45.20:815][924]LogTexture: Display: Building textures: Texture2D_584 (BGRA8, 32X32)
+[2023.02.28-14.45.20:815][924]LogTexture: Display: Building textures: Texture2D_583 (BGRA8, 32X32)
+[2023.02.28-14.45.20:880][926]LogTexture: Display: Building textures: Texture2D_586 (BGRA8, 32X32)
+[2023.02.28-14.45.21:064][936]LogTexture: Display: Building textures: Texture2D_587 (BGRA8, 32X32)
+[2023.02.28-14.45.25:380][435]LogTexture: Display: Building textures: Texture2D_588 (BGRA8, 32X32)
+[2023.02.28-14.45.25:382][435]LogTexture: Display: Building textures: Texture2D_589 (BGRA8, 32X32)
+[2023.02.28-14.45.25:383][435]LogTexture: Display: Building textures: Texture2D_590 (BGRA8, 32X32)
+[2023.02.28-14.45.25:385][435]LogTexture: Display: Building textures: Texture2D_591 (BGRA8, 32X32)
+[2023.02.28-14.45.25:389][435]LogTexture: Display: Building textures: Texture2D_592 (BGRA8, 32X32)
+[2023.02.28-14.45.25:389][435]LogTexture: Display: Building textures: Texture2D_593 (BGRA8, 32X32)
+[2023.02.28-14.45.25:593][451]LogTexture: Display: Building textures: Texture2D_594 (BGRA8, 32X32)
+[2023.02.28-14.45.25:648][454]LogTexture: Display: Building textures: Texture2D_595 (BGRA8, 32X32)
+[2023.02.28-14.45.25:675][454]LogTexture: Display: Building textures: Texture2D_596 (BGRA8, 32X32)
+[2023.02.28-14.45.25:677][454]LogTexture: Display: Building textures: Texture2D_597 (BGRA8, 32X32)
+[2023.02.28-14.45.25:678][454]LogTexture: Display: Building textures: Texture2D_598 (BGRA8, 32X32)
+[2023.02.28-14.45.25:680][454]LogTexture: Display: Building textures: Texture2D_599 (BGRA8, 32X32)
+[2023.02.28-14.45.25:690][455]LogTexture: Display: Building textures: Texture2D_600 (BGRA8, 32X32)
+[2023.02.28-14.45.25:690][455]LogTexture: Display: Building textures: Texture2D_602 (BGRA8, 32X32)
+[2023.02.28-14.45.25:690][455]LogTexture: Display: Building textures: Texture2D_601 (BGRA8, 32X32)
+[2023.02.28-14.45.25:690][455]LogTexture: Display: Building textures: Texture2D_603 (BGRA8, 32X32)
+[2023.02.28-14.45.25:729][455]LogTexture: Display: Building textures: Texture2D_604 (BGRA8, 32X32)
+[2023.02.28-14.45.25:730][455]LogTexture: Display: Building textures: Texture2D_605 (BGRA8, 32X32)
+[2023.02.28-14.45.25:740][456]LogTexture: Display: Building textures: Texture2D_606 (BGRA8, 32X32)
+[2023.02.28-14.45.25:740][456]LogTexture: Display: Building textures: Texture2D_607 (BGRA8, 32X32)
+[2023.02.28-14.45.25:777][456]LogTexture: Display: Building textures: Texture2D_608 (BGRA8, 32X32)
+[2023.02.28-14.45.25:778][456]LogTexture: Display: Building textures: Texture2D_609 (BGRA8, 32X32)
+[2023.02.28-14.45.25:788][457]LogTexture: Display: Building textures: Texture2D_610 (BGRA8, 32X32)
+[2023.02.28-14.45.25:788][457]LogTexture: Display: Building textures: Texture2D_611 (BGRA8, 32X32)
+[2023.02.28-14.45.26:047][474]LogTexture: Display: Building textures: Texture2D_612 (BGRA8, 32X32)
+[2023.02.28-14.45.26:072][474]LogTexture: Display: Building textures: Texture2D_613 (BGRA8, 32X32)
+[2023.02.28-14.45.26:081][475]LogTexture: Display: Building textures: Texture2D_614 (BGRA8, 32X32)
+[2023.02.28-14.45.26:110][475]LogTexture: Display: Building textures: Texture2D_615 (BGRA8, 32X32)
+[2023.02.28-14.45.26:112][475]LogTexture: Display: Building textures: Texture2D_616 (BGRA8, 32X32)
+[2023.02.28-14.45.26:122][476]LogTexture: Display: Building textures: Texture2D_617 (BGRA8, 32X32)
+[2023.02.28-14.45.26:122][476]LogTexture: Display: Building textures: Texture2D_618 (BGRA8, 32X32)
+[2023.02.28-14.45.26:122][476]LogTexture: Display: Building textures: Texture2D_619 (BGRA8, 32X32)
+[2023.02.28-14.45.26:151][476]LogTexture: Display: Building textures: Texture2D_620 (BGRA8, 32X32)
+[2023.02.28-14.45.26:152][476]LogTexture: Display: Building textures: Texture2D_621 (BGRA8, 32X32)
+[2023.02.28-14.45.26:162][477]LogTexture: Display: Building textures: Texture2D_622 (BGRA8, 32X32)
+[2023.02.28-14.45.26:162][477]LogTexture: Display: Building textures: Texture2D_623 (BGRA8, 32X32)
+[2023.02.28-14.45.26:200][477]LogTexture: Display: Building textures: Texture2D_624 (BGRA8, 32X32)
+[2023.02.28-14.45.46:153][490]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-14.45.46:159][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-14.45.46:159][490]PIE: New page: PIE session: MainLevel (28 Feb 2023, 14:45:46)
+[2023.02.28-14.45.46:160][490]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.28-14.45.46:161][490]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.28-14.45.46:162][490]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_554 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_599 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_551 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_550 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_605 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_598 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_591 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_526 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_540 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_548 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_609 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_597 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_590 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_525 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_539 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_596 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_589 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_524 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_608 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_604 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 32X32)
+[2023.02.28-14.45.46:292][490]LogTexture: Display: Building textures: Texture2D_588 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_530 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_544 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_613 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_616 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_587 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_556 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_555 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_621 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_615 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_553 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_582 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_620 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_624 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_560 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_565 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_562 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_574 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_578 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_566 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_570 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_575 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_567 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_569 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_568 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2023.02.28-14.45.46:293][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131289s)
+[2023.02.28-14.45.46:295][490]LogAIModule: Creating AISystem for world MainLevel
+[2023.02.28-14.45.46:295][490]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2023.02.28-14.45.46:296][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.133641s)
+[2023.02.28-14.45.46:330][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.28-14.45.46:337][490]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-14.45.46:337][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-14.45.46:337][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-14.45.46:337][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-14.45.46:337][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-14.45.46:337][490]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-14.45.46:340][490]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-14.45.46:340][490]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-14.45.46:345][490]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2023.02.28-14.45.46:346][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-14.45.46:346][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-14.45.46:346][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-14.45.46:346][490]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-14.45.46:346][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-14.45.46:346][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.28-14.45.46:347][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-14.45.46:347][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-14.45.46:347][490]LogInit: FAudioDevice initialized.
+[2023.02.28-14.45.46:347][490]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2023.02.28-14.45.46:510][490]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.28-14.45.46:519][490]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.02.28-14.45.46
+[2023.02.28-14.45.46:520][490]LogWorld: Bringing up level for play took: 0.009330
+[2023.02.28-14.45.46:520][490]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.02.28-14.45.46:527][490]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.02.28-14.45.46:533][490]PIE: Server logged in
+[2023.02.28-14.45.46:535][490]PIE: Play in editor total start time 0.379 seconds.
+[2023.02.28-14.46.02:883][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-14.46.02:883][436]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.28-14.46.02:884][436]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-14.46.02:887][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-14.46.02:895][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-14.46.02:896][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-14.46.02:911][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-14.46.02:911][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-14.46.02:911][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-14.46.02:921][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.28-14.46.02:956][438]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.28-14.46.46:425][185]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.46.46:432][185]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.46.50:611][441]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2023.02.28-14.46.50:621][441]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2023.02.28-14.47.41:986][885]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.41:986][885]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.47.42:037][885]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.42:041][885]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.47.42:288][891]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.42:288][891]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.47.42:344][891]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.42:347][891]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.47.42:351][891]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.47.42:599][901]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.42:599][901]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.47.42:673][901]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.42:677][901]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.47.42:849][917]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.42:849][917]LogEditorTransaction: Undo Landscape Editing: Erase
+[2023.02.28-14.47.42:892][917]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.43:081][932]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.43:081][932]LogEditorTransaction: Undo Landscape Editing: Erase
+[2023.02.28-14.47.43:138][932]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.43:311][948]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.43:311][948]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.47.43:368][948]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.43:371][948]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.47.46:392][290]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.46:392][290]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.47.46:490][290]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.46:494][290]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.46:498][290]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.47.46:501][290]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.47.46:620][293]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.46:620][293]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.47.46:732][293]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.46:735][293]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2023.02.28-14.47.46:739][293]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.47.46:742][293]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2023.02.28-14.47.46:746][293]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.46:749][293]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2023.02.28-14.47.46:754][293]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.47.46:890][294]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.46:890][294]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.47.47:023][294]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2023.02.28-14.47.47:027][294]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.47:031][294]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2023.02.28-14.47.47:034][294]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.47:040][294]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.47.47:045][294]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.47.47:051][294]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.47:051][294]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.02.28-14.47.47:150][294]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.47:154][294]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.47:295][297]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.47:295][297]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.47:392][297]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.47:395][297]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.47:505][298]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.47:505][298]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.47:592][298]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.47:596][298]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.47:706][301]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.47:706][301]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.02.28-14.47.47:751][301]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2023.02.28-14.47.47:752][301]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2023.02.28-14.47.47:752][301]LogTexture: Display: Building textures: Texture2D_569 (BGRA8, 32X32)
+[2023.02.28-14.47.47:753][301]LogTexture: Display: Building textures: Texture2D_566 (BGRA8, 32X32)
+[2023.02.28-14.47.47:754][301]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2023.02.28-14.47.47:755][301]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 32X32)
+[2023.02.28-14.47.47:755][301]LogTexture: Display: Building textures: Texture2D_570 (BGRA8, 32X32)
+[2023.02.28-14.47.47:756][301]LogTexture: Display: Building textures: Texture2D_575 (BGRA8, 32X32)
+[2023.02.28-14.47.47:757][301]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 32X32)
+[2023.02.28-14.47.47:757][301]LogTexture: Display: Building textures: Texture2D_525 (BGRA8, 32X32)
+[2023.02.28-14.47.47:758][301]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 32X32)
+[2023.02.28-14.47.47:759][301]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 32X32)
+[2023.02.28-14.47.47:759][301]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 32X32)
+[2023.02.28-14.47.47:759][301]LogTexture: Display: Building textures: Texture2D_554 (BGRA8, 32X32)
+[2023.02.28-14.47.47:761][301]LogTexture: Display: Building textures: Texture2D_551 (BGRA8, 32X32)
+[2023.02.28-14.47.47:761][301]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 32X32)
+[2023.02.28-14.47.47:762][301]LogTexture: Display: Building textures: Texture2D_550 (BGRA8, 32X32)
+[2023.02.28-14.47.47:763][301]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 32X32)
+[2023.02.28-14.47.47:764][301]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 32X32)
+[2023.02.28-14.47.47:764][301]LogTexture: Display: Building textures: Texture2D_548 (BGRA8, 32X32)
+[2023.02.28-14.47.47:765][301]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 32X32)
+[2023.02.28-14.47.47:766][301]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 32X32)
+[2023.02.28-14.47.47:766][301]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 32X32)
+[2023.02.28-14.47.47:767][301]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2023.02.28-14.47.47:776][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_524' (shares with 'LandscapeComponent_519') 
+[2023.02.28-14.47.47:776][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_525' (shares with 'LandscapeComponent_521') 
+[2023.02.28-14.47.47:776][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_627' (shares with 'LandscapeComponent_617') 
+[2023.02.28-14.47.47:776][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_629' (shares with 'LandscapeComponent_581') 
+[2023.02.28-14.47.47:776][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_660' (shares with 'LandscapeComponent_618') 
+[2023.02.28-14.47.47:776][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_661' (shares with 'LandscapeComponent_647') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_783' (shares with 'LandscapeComponent_777') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_822' (shares with 'LandscapeComponent_768') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_824' (shares with 'LandscapeComponent_736') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_825' (shares with 'LandscapeComponent_582') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_850' (shares with 'LandscapeComponent_809') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_854' (shares with 'LandscapeComponent_839') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_859' (shares with 'LandscapeComponent_808') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_882' (shares with 'LandscapeComponent_810') 
+[2023.02.28-14.47.47:777][301]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1018' (shares with 'LandscapeComponent_616') 
+[2023.02.28-14.47.47:797][301]LogTexture: Display: Building textures: Texture2D_539 (BGRA8, 32X32)
+[2023.02.28-14.47.47:797][301]LogTexture: Display: Building textures: Texture2D_540 (BGRA8, 32X32)
+[2023.02.28-14.47.47:798][301]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 32X32)
+[2023.02.28-14.47.47:799][301]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 32X32)
+[2023.02.28-14.47.47:800][301]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 32X32)
+[2023.02.28-14.47.47:801][301]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 32X32)
+[2023.02.28-14.47.47:802][301]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 32X32)
+[2023.02.28-14.47.47:802][301]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 32X32)
+[2023.02.28-14.47.47:803][301]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 32X32)
+[2023.02.28-14.47.47:803][301]LogTexture: Display: Building textures: Texture2D_544 (BGRA8, 32X32)
+[2023.02.28-14.47.47:804][301]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 32X32)
+[2023.02.28-14.47.47:805][301]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 32X32)
+[2023.02.28-14.47.47:805][301]LogTexture: Display: Building textures: Texture2D_553 (BGRA8, 32X32)
+[2023.02.28-14.47.47:806][301]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 32X32)
+[2023.02.28-14.47.47:807][301]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 32X32)
+[2023.02.28-14.47.47:807][301]LogTexture: Display: Building textures: Texture2D_582 (BGRA8, 32X32)
+[2023.02.28-14.47.47:808][301]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 32X32)
+[2023.02.28-14.47.47:809][301]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 32X32)
+[2023.02.28-14.47.47:809][301]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 32X32)
+[2023.02.28-14.47.47:810][301]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 32X32)
+[2023.02.28-14.47.47:811][301]LogTexture: Display: Building textures: Texture2D_574 (BGRA8, 32X32)
+[2023.02.28-14.47.47:811][301]LogTexture: Display: Building textures: Texture2D_587 (BGRA8, 32X32)
+[2023.02.28-14.47.47:812][301]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 32X32)
+[2023.02.28-14.47.47:812][301]LogTexture: Display: Building textures: Texture2D_578 (BGRA8, 32X32)
+[2023.02.28-14.47.47:813][301]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 32X32)
+[2023.02.28-14.47.47:814][301]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 32X32)
+[2023.02.28-14.47.47:970][301]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2023.02.28-14.47.47:997][301]Water Texture Update Time: 0.095562 secs
+[2023.02.28-14.47.48:405][330]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.48:405][330]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.48:455][330]LogTexture: Display: Building textures: Texture2D_587 (BGRA8, 32X32)
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_608' (shares with 'LandscapeComponent_599') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_612' (shares with 'LandscapeComponent_603') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_643' (shares with 'LandscapeComponent_629') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_650' (shares with 'LandscapeComponent_633') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_653' (shares with 'LandscapeComponent_634') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_674' (shares with 'LandscapeComponent_669') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_675' (shares with 'LandscapeComponent_662') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_692' (shares with 'LandscapeComponent_676') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_693' (shares with 'LandscapeComponent_690') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_704' (shares with 'LandscapeComponent_699') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_708' (shares with 'LandscapeComponent_703') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_724' (shares with 'LandscapeComponent_720') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_736' (shares with 'LandscapeComponent_727') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_740' (shares with 'LandscapeComponent_731') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_755' (shares with 'LandscapeComponent_741') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_759' (shares with 'LandscapeComponent_745') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_772' (shares with 'LandscapeComponent_763') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_787' (shares with 'LandscapeComponent_773') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_792' (shares with 'LandscapeComponent_770') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_800' (shares with 'LandscapeComponent_791') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_813' (shares with 'LandscapeComponent_696') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_820' (shares with 'LandscapeComponent_803') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_836' (shares with 'LandscapeComponent_827') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_837' (shares with 'LandscapeComponent_796') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_841' (shares with 'LandscapeComponent_630') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_843' (shares with 'LandscapeComponent_788') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_844' (shares with 'LandscapeComponent_756') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_857' (shares with 'LandscapeComponent_842') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_858' (shares with 'LandscapeComponent_849') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_862' (shares with 'LandscapeComponent_853') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_868' (shares with 'LandscapeComponent_859') 
+[2023.02.28-14.47.48:464][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_875' (shares with 'LandscapeComponent_760') 
+[2023.02.28-14.47.48:465][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_906' (shares with 'LandscapeComponent_767') 
+[2023.02.28-14.47.48:465][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1011' (shares with 'LandscapeComponent_795') 
+[2023.02.28-14.47.48:465][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1016' (shares with 'LandscapeComponent_764') 
+[2023.02.28-14.47.48:465][330]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1019' (shares with 'LandscapeComponent_671') 
+[2023.02.28-14.47.48:576][330]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2023.02.28-14.47.48:607][330]Water Texture Update Time: 0.100950 secs
+[2023.02.28-14.47.48:695][332]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.48:695][332]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.48:736][332]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2023.02.28-14.47.48:737][332]LogTexture: Display: Building textures: Texture2D_568 (BGRA8, 32X32)
+[2023.02.28-14.47.48:738][332]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2023.02.28-14.47.48:739][332]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 32X32)
+[2023.02.28-14.47.48:741][332]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 32X32)
+[2023.02.28-14.47.48:742][332]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 32X32)
+[2023.02.28-14.47.48:742][332]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 32X32)
+[2023.02.28-14.47.48:743][332]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 32X32)
+[2023.02.28-14.47.48:744][332]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 32X32)
+[2023.02.28-14.47.48:744][332]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2023.02.28-14.47.48:745][332]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2023.02.28-14.47.48:746][332]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2023.02.28-14.47.48:746][332]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 32X32)
+[2023.02.28-14.47.48:749][332]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 32X32)
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_623' (shares with 'LandscapeComponent_615') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_644' (shares with 'LandscapeComponent_629') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_676' (shares with 'LandscapeComponent_662') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_677' (shares with 'LandscapeComponent_674') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_679' (shares with 'LandscapeComponent_660') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Grass in component 'LandscapeComponent_679' (shares with 'LandscapeComponent_666') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_680' (shares with 'LandscapeComponent_675') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_709' (shares with 'LandscapeComponent_704') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_711' (shares with 'LandscapeComponent_701') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_715' (shares with 'LandscapeComponent_702') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1018' (shares with 'LandscapeComponent_683') 
+[2023.02.28-14.47.48:757][332]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1019' (shares with 'LandscapeComponent_683') 
+[2023.02.28-14.47.48:775][332]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 32X32)
+[2023.02.28-14.47.48:776][332]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 32X32)
+[2023.02.28-14.47.48:777][332]LogTexture: Display: Building textures: Texture2D_544 (BGRA8, 32X32)
+[2023.02.28-14.47.48:778][332]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 32X32)
+[2023.02.28-14.47.48:778][332]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 32X32)
+[2023.02.28-14.47.48:779][332]LogTexture: Display: Building textures: Texture2D_553 (BGRA8, 32X32)
+[2023.02.28-14.47.48:779][332]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 32X32)
+[2023.02.28-14.47.48:781][332]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 32X32)
+[2023.02.28-14.47.48:782][332]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 32X32)
+[2023.02.28-14.47.48:782][332]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 32X32)
+[2023.02.28-14.47.48:783][332]LogTexture: Display: Building textures: Texture2D_570 (BGRA8, 32X32)
+[2023.02.28-14.47.48:784][332]LogTexture: Display: Building textures: Texture2D_575 (BGRA8, 32X32)
+[2023.02.28-14.47.48:784][332]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 32X32)
+[2023.02.28-14.47.48:785][332]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2023.02.28-14.47.48:785][332]LogTexture: Display: Building textures: Texture2D_569 (BGRA8, 32X32)
+[2023.02.28-14.47.48:786][332]LogTexture: Display: Building textures: Texture2D_574 (BGRA8, 32X32)
+[2023.02.28-14.47.48:787][332]LogTexture: Display: Building textures: Texture2D_578 (BGRA8, 32X32)
+[2023.02.28-14.47.48:898][332]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2023.02.28-14.47.48:928][332]Water Texture Update Time: 0.108616 secs
+[2023.02.28-14.47.49:006][333]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.49:006][333]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.49:031][333]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 32X32)
+[2023.02.28-14.47.49:035][333]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2023.02.28-14.47.49:059][333]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 32X32)
+[2023.02.28-14.47.49:062][333]LogTexture: Display: Building textures: Texture2D_560 (BGRA8, 32X32)
+[2023.02.28-14.47.49:062][333]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 32X32)
+[2023.02.28-14.47.49:063][333]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2023.02.28-14.47.49:063][333]LogTexture: Display: Building textures: Texture2D_566 (BGRA8, 32X32)
+[2023.02.28-14.47.49:064][333]LogTexture: Display: Building textures: Texture2D_567 (BGRA8, 32X32)
+[2023.02.28-14.47.49:074][333]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.49:074][333]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.49:099][333]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 32X32)
+[2023.02.28-14.47.49:100][333]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 32X32)
+[2023.02.28-14.47.49:103][333]LogTexture: Display: Building textures: Texture2D_539 (BGRA8, 32X32)
+[2023.02.28-14.47.49:104][333]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 32X32)
+[2023.02.28-14.47.49:105][333]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 32X32)
+[2023.02.28-14.47.49:107][333]LogTexture: Display: Building textures: Texture2D_554 (BGRA8, 32X32)
+[2023.02.28-14.47.49:108][333]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 32X32)
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_620' (shares with 'LandscapeComponent_611') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_656' (shares with 'LandscapeComponent_643') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_658' (shares with 'LandscapeComponent_646') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_663' (shares with 'LandscapeComponent_657') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_686' (shares with 'LandscapeComponent_679') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Grass in component 'LandscapeComponent_686' (shares with 'LandscapeComponent_679') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_689' (shares with 'LandscapeComponent_681') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_715' (shares with 'LandscapeComponent_702') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_718' (shares with 'LandscapeComponent_680') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_749' (shares with 'LandscapeComponent_711') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_752' (shares with 'LandscapeComponent_730') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_753' (shares with 'LandscapeComponent_746') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_754' (shares with 'LandscapeComponent_746') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1020' (shares with 'LandscapeComponent_715') 
+[2023.02.28-14.47.49:116][333]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1021' (shares with 'LandscapeComponent_720') 
+[2023.02.28-14.47.49:143][333]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2023.02.28-14.47.49:144][333]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 32X32)
+[2023.02.28-14.47.49:145][333]LogTexture: Display: Building textures: Texture2D_526 (BGRA8, 32X32)
+[2023.02.28-14.47.49:146][333]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 32X32)
+[2023.02.28-14.47.49:147][333]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 32X32)
+[2023.02.28-14.47.49:148][333]LogTexture: Display: Building textures: Texture2D_525 (BGRA8, 32X32)
+[2023.02.28-14.47.49:148][333]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 32X32)
+[2023.02.28-14.47.49:149][333]LogTexture: Display: Building textures: Texture2D_524 (BGRA8, 32X32)
+[2023.02.28-14.47.49:149][333]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 32X32)
+[2023.02.28-14.47.49:151][333]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 32X32)
+[2023.02.28-14.47.49:151][333]LogTexture: Display: Building textures: Texture2D_530 (BGRA8, 32X32)
+[2023.02.28-14.47.49:152][333]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 32X32)
+[2023.02.28-14.47.49:152][333]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 32X32)
+[2023.02.28-14.47.49:153][333]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 32X32)
+[2023.02.28-14.47.49:269][333]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2023.02.28-14.47.49:297][333]Water Texture Update Time: 0.098354 secs
+[2023.02.28-14.47.49:339][334]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.49:339][334]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.49:421][334]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 32X32)
+[2023.02.28-14.47.49:421][334]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 32X32)
+[2023.02.28-14.47.49:422][334]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 32X32)
+[2023.02.28-14.47.49:422][334]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 32X32)
+[2023.02.28-14.47.49:423][334]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 32X32)
+[2023.02.28-14.47.49:429][334]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 32X32)
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_620' (shares with 'LandscapeComponent_611') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_654' (shares with 'LandscapeComponent_638') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_677' (shares with 'LandscapeComponent_674') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_678' (shares with 'LandscapeComponent_672') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_679' (shares with 'LandscapeComponent_666') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_683' (shares with 'LandscapeComponent_670') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_685' (shares with 'LandscapeComponent_669') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_691' (shares with 'LandscapeComponent_682') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_708' (shares with 'LandscapeComponent_694') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_709' (shares with 'LandscapeComponent_701') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_710' (shares with 'LandscapeComponent_704') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_711' (shares with 'LandscapeComponent_692') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_713' (shares with 'LandscapeComponent_702') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_715' (shares with 'LandscapeComponent_693') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Grass in component 'LandscapeComponent_715' (shares with 'LandscapeComponent_700') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_740' (shares with 'LandscapeComponent_722') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_741' (shares with 'LandscapeComponent_730') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_742' (shares with 'LandscapeComponent_739') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_743' (shares with 'LandscapeComponent_733') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_747' (shares with 'LandscapeComponent_737') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_773' (shares with 'LandscapeComponent_760') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_774' (shares with 'LandscapeComponent_764') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_775' (shares with 'LandscapeComponent_765') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_776' (shares with 'LandscapeComponent_767') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_779' (shares with 'LandscapeComponent_768') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_780' (shares with 'LandscapeComponent_770') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_804' (shares with 'LandscapeComponent_796') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_807' (shares with 'LandscapeComponent_797') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_808' (shares with 'LandscapeComponent_790') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_811' (shares with 'LandscapeComponent_801') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_837' (shares with 'LandscapeComponent_803') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_841' (shares with 'LandscapeComponent_824') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_860' (shares with 'LandscapeComponent_839') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_868' (shares with 'LandscapeComponent_859') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_871' (shares with 'LandscapeComponent_853') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_874' (shares with 'LandscapeComponent_850') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_901' (shares with 'LandscapeComponent_857') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_903' (shares with 'LandscapeComponent_867') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_904' (shares with 'LandscapeComponent_877') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_907' (shares with 'LandscapeComponent_889') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_998' (shares with 'LandscapeComponent_844') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_999' (shares with 'LandscapeComponent_900') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1001' (shares with 'LandscapeComponent_847') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1002' (shares with 'LandscapeComponent_836') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1015' (shares with 'LandscapeComponent_744') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1019' (shares with 'LandscapeComponent_712') 
+[2023.02.28-14.47.49:441][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1022' (shares with 'LandscapeComponent_683') 
+[2023.02.28-14.47.49:457][334]LogTexture: Display: Building textures: Texture2D_526 (BGRA8, 32X32)
+[2023.02.28-14.47.49:458][334]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 32X32)
+[2023.02.28-14.47.49:459][334]LogTexture: Display: Building textures: Texture2D_525 (BGRA8, 32X32)
+[2023.02.28-14.47.49:460][334]LogTexture: Display: Building textures: Texture2D_524 (BGRA8, 32X32)
+[2023.02.28-14.47.49:460][334]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 32X32)
+[2023.02.28-14.47.49:461][334]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 32X32)
+[2023.02.28-14.47.49:461][334]LogTexture: Display: Building textures: Texture2D_530 (BGRA8, 32X32)
+[2023.02.28-14.47.49:462][334]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 32X32)
+[2023.02.28-14.47.49:463][334]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 32X32)
+[2023.02.28-14.47.49:463][334]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 32X32)
+[2023.02.28-14.47.49:464][334]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2023.02.28-14.47.49:465][334]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 32X32)
+[2023.02.28-14.47.49:475][334]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.49:475][334]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_617' (shares with 'LandscapeComponent_616') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_620' (shares with 'LandscapeComponent_608') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_621' (shares with 'LandscapeComponent_611') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_624' (shares with 'LandscapeComponent_615') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_649' (shares with 'LandscapeComponent_647') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_650' (shares with 'LandscapeComponent_648') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_652' (shares with 'LandscapeComponent_633') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_656' (shares with 'LandscapeComponent_634') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_681' (shares with 'LandscapeComponent_666') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_682' (shares with 'LandscapeComponent_666') 
+[2023.02.28-14.47.49:513][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_683' (shares with 'LandscapeComponent_680') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_684' (shares with 'LandscapeComponent_658') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_685' (shares with 'LandscapeComponent_665') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_686' (shares with 'LandscapeComponent_670') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_688' (shares with 'LandscapeComponent_659') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_689' (shares with 'LandscapeComponent_668') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_714' (shares with 'LandscapeComponent_713') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_715' (shares with 'LandscapeComponent_712') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_745' (shares with 'LandscapeComponent_735') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_746' (shares with 'LandscapeComponent_735') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_747' (shares with 'LandscapeComponent_744') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_777' (shares with 'LandscapeComponent_758') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_778' (shares with 'LandscapeComponent_758') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_779' (shares with 'LandscapeComponent_767') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_785' (shares with 'LandscapeComponent_755') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_810' (shares with 'LandscapeComponent_789') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_811' (shares with 'LandscapeComponent_790') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_843' (shares with 'LandscapeComponent_840') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1018' (shares with 'LandscapeComponent_713') 
+[2023.02.28-14.47.49:514][334]MapCheck: Warning: Fixed up shared weightmap texture for layer Layer Auto in component 'LandscapeComponent_1023' (shares with 'LandscapeComponent_619') 
+[2023.02.28-14.47.49:641][334]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2023.02.28-14.47.49:669][334]Water Texture Update Time: 0.103562 secs
+[2023.02.28-14.47.49:716][335]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.49:716][335]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.49:869][335]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.49:874][335]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2023.02.28-14.47.49:878][335]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2023.02.28-14.47.49:886][335]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.49:886][335]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.49:973][335]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.49:980][335]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_625 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_626 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_627 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_628 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_629 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_630 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_631 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_632 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_633 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_634 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_635 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_636 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_637 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_638 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_639 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_640 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_641 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_642 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_643 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_644 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_645 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_646 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_647 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_648 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_649 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_650 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_652 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_653 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_654 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_656 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_655 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_657 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_658 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_659 (BGRA8, 32X32)
+[2023.02.28-14.47.50:005][335]LogTexture: Display: Building textures: Texture2D_660 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_661 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_662 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_663 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_664 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_665 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_666 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_667 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_668 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_669 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_670 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_671 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_672 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_673 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_674 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_675 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_676 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_677 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_678 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_651 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_679 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_680 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_681 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_682 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_683 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_684 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_685 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_686 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_687 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_688 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_689 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_690 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_691 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_692 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_693 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_694 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_695 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_696 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_697 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_698 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_699 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_700 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_701 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_702 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_703 (BGRA8, 32X32)
+[2023.02.28-14.47.50:006][335]LogTexture: Display: Building textures: Texture2D_704 (BGRA8, 32X32)
+[2023.02.28-14.47.51:113][336]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.51:113][336]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.51:160][336]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.51:167][336]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.51:167][336]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.51:211][336]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.51:219][336]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.51:219][336]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.51:262][336]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.51:269][336]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.51:269][336]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.51:357][336]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.51:361][336]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.51:368][336]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.51:368][336]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.51:448][336]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.51:452][336]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.51:460][336]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.51:460][336]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.51:546][336]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2023.02.28-14.47.51:550][336]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.51:553][336]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2023.02.28-14.47.51:556][336]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.51:565][336]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.51:565][336]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.51:644][336]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2023.02.28-14.47.51:648][336]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.51:653][336]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_705 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_706 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_707 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_709 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_708 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_710 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_711 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_712 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_713 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_714 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_715 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_716 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_717 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_718 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_719 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_720 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_721 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_722 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_723 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_724 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_725 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_726 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_727 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_728 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_729 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_730 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_731 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_732 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_734 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_735 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_737 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_736 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_738 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_739 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_740 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_741 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_733 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_742 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_743 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_744 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_745 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_746 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_747 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_748 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_750 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_751 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_752 (BGRA8, 32X32)
+[2023.02.28-14.47.51:689][336]LogTexture: Display: Building textures: Texture2D_753 (BGRA8, 32X32)
+[2023.02.28-14.47.55:026][617]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.55:027][617]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.55:104][617]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2023.02.28-14.47.55:108][617]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_755 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_756 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_754 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_758 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_757 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_759 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_761 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_760 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_762 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_763 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_764 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_765 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_766 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_767 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_768 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_769 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_770 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_771 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_772 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_773 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_774 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_775 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_776 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_777 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_778 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_779 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_780 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_781 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_782 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_783 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_784 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_785 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_786 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_787 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_788 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_789 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_790 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_791 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_792 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_793 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_794 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_795 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_796 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_797 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_798 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_799 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_800 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_801 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_802 (BGRA8, 32X32)
+[2023.02.28-14.47.55:126][617]LogTexture: Display: Building textures: Texture2D_803 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_804 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_805 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_806 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_807 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_808 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_809 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_810 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_811 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_812 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_813 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_814 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_815 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_816 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_817 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_818 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_819 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_820 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_821 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_822 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_823 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_824 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_825 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_826 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_827 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_828 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_829 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_830 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_831 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_832 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_833 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_834 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_835 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_836 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_837 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_838 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_839 (BGRA8, 32X32)
+[2023.02.28-14.47.55:127][617]LogTexture: Display: Building textures: Texture2D_840 (BGRA8, 32X32)
+[2023.02.28-14.47.56:290][618]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.56:290][618]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.56:338][618]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.56:345][618]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.56:345][618]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.56:420][618]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.56:426][618]Cmd: TRANSACTION UNDO
+[2023.02.28-14.47.56:426][618]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.47.56:467][618]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_841 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_842 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_843 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_846 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_845 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_844 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_847 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_849 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_848 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_850 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_851 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_852 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_853 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_854 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_855 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_856 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_857 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_858 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_859 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_861 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_862 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_863 (BGRA8, 32X32)
+[2023.02.28-14.47.56:484][618]LogTexture: Display: Building textures: Texture2D_864 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_865 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_866 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_867 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_868 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_869 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_870 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_871 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_872 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_873 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_860 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_874 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_875 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_876 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_877 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_878 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_879 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_880 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_881 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_882 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_883 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_884 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_885 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_886 (BGRA8, 32X32)
+[2023.02.28-14.47.56:485][618]LogTexture: Display: Building textures: Texture2D_887 (BGRA8, 32X32)
+[2023.02.28-14.48.09:686][ 51]Cmd: TRANSACTION UNDO
+[2023.02.28-14.48.09:686][ 51]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.48.09:738][ 51]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.48.53:789][ 84]Cmd: TRANSACTION UNDO
+[2023.02.28-14.48.53:789][ 84]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.48.54:234][ 96]Cmd: TRANSACTION UNDO
+[2023.02.28-14.48.54:234][ 96]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.49.05:102][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.28-14.49.06:445][359]LogSlate: Window 'Save Content' being destroyed
+[2023.02.28-14.49.10:009][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.02.28-14.49.11:411][754]LogSlate: Window 'Save Content' being destroyed
+[2023.02.28-14.49.11:440][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.28-14.49.11:483][754]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.49.11:486][754]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2023.02.28-14.49.11:489][754]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.49.11:493][754]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2023.02.28-14.49.12:077][754]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/Skills week/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/MainLevelCD85F9894D31371A7D0F54A610B3CACD.tmp' to '../../../../../../Users/Lee/Desktop/Skills week/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/MainLevel.umap'
+[2023.02.28-14.49.12:082][754]LogFileHelpers: Saving map 'MainLevel' took 0.650
+[2023.02.28-14.49.12:117][754]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.28-14.49.12:117][754]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2023.02.28-14.49.17:416][370]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-14.49.17:420][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-14.49.17:420][370]PIE: New page: PIE session: MainLevel (28 Feb 2023, 14:49:17)
+[2023.02.28-14.49.17:420][370]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.28-14.49.17:539][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.120039s)
+[2023.02.28-14.49.17:541][370]LogAIModule: Creating AISystem for world MainLevel
+[2023.02.28-14.49.17:541][370]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2023.02.28-14.49.17:541][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.121004s)
+[2023.02.28-14.49.17:546][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.28-14.49.17:549][370]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-14.49.17:549][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-14.49.17:549][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-14.49.17:549][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-14.49.17:549][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-14.49.17:549][370]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-14.49.17:551][370]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-14.49.17:551][370]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-14.49.17:557][370]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2023.02.28-14.49.17:557][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-14.49.17:557][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-14.49.17:557][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-14.49.17:558][370]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-14.49.17:558][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-14.49.17:558][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.28-14.49.17:558][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-14.49.17:558][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-14.49.17:558][370]LogInit: FAudioDevice initialized.
+[2023.02.28-14.49.17:558][370]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2023.02.28-14.49.17:563][370]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.28-14.49.17:571][370]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.02.28-14.49.17
+[2023.02.28-14.49.17:571][370]LogWorld: Bringing up level for play took: 0.008108
+[2023.02.28-14.49.17:571][370]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.02.28-14.49.17:574][370]PIE: Server logged in
+[2023.02.28-14.49.17:574][370]PIE: Play in editor total start time 0.155 seconds.
+[2023.02.28-14.49.47:683][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-14.49.47:683][972]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.28-14.49.47:683][972]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-14.49.47:686][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-14.49.47:693][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-14.49.47:695][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-14.49.47:705][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-14.49.47:705][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-14.49.47:706][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-14.49.47:711][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.28-14.49.47:762][976]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.28-14.50.07:742][272]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.50.07:747][272]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.50.56:252][243]Cmd: TRANSACTION UNDO
+[2023.02.28-14.50.56:252][243]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.50.56:334][243]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.50.56:339][243]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.50.56:342][243]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.50.56:346][243]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.50.56:748][255]Cmd: TRANSACTION UNDO
+[2023.02.28-14.50.56:748][255]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2023.02.28-14.50.56:832][255]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.50.56:835][255]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.50.56:839][255]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.50.56:844][255]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.50.58:299][409]Cmd: TRANSACTION UNDO
+[2023.02.28-14.50.58:299][409]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2023.02.28-14.50.58:352][409]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.50.58:355][409]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.50.58:359][409]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.50.58:363][409]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.51.27:552][113]Cmd: TRANSACTION UNDO
+[2023.02.28-14.51.27:552][113]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.51.27:618][113]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.51.27:622][113]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.51.27:911][119]Cmd: TRANSACTION UNDO
+[2023.02.28-14.51.27:911][119]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.51.27:980][119]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.51.27:983][119]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.51.28:261][136]Cmd: TRANSACTION UNDO
+[2023.02.28-14.51.28:261][136]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.51.28:337][136]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.51.28:341][136]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.51.28:672][168]Cmd: TRANSACTION UNDO
+[2023.02.28-14.51.28:672][168]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.51.28:740][168]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.51.28:744][168]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.51.29:201][214]Cmd: TRANSACTION UNDO
+[2023.02.28-14.51.29:201][214]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.51.29:242][214]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.51.29:246][214]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.51.29:703][263]Cmd: TRANSACTION UNDO
+[2023.02.28-14.51.29:703][263]LogEditorTransaction: Undo Landscape Editing: Noise
+[2023.02.28-14.51.29:739][263]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.52.16:138][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.02.28-14.52.17:473][710]LogSlate: Window 'Save Content' being destroyed
+[2023.02.28-14.52.17:501][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.02.28-14.52.17:545][710]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 32X32)
+[2023.02.28-14.52.17:546][710]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.52.17:548][710]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 32X32)
+[2023.02.28-14.52.17:548][710]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 32X32)
+[2023.02.28-14.52.17:548][710]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 32X32)
+[2023.02.28-14.52.17:549][710]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 32X32)
+[2023.02.28-14.52.17:549][710]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 32X32)
+[2023.02.28-14.52.17:549][710]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 32X32)
+[2023.02.28-14.52.17:549][710]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 32X32)
+[2023.02.28-14.52.17:549][710]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 32X32)
+[2023.02.28-14.52.17:550][710]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 32X32)
+[2023.02.28-14.52.17:550][710]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 32X32)
+[2023.02.28-14.52.17:550][710]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 32X32)
+[2023.02.28-14.52.17:551][710]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 32X32)
+[2023.02.28-14.52.17:551][710]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 32X32)
+[2023.02.28-14.52.17:551][710]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 32X32)
+[2023.02.28-14.52.17:551][710]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 32X32)
+[2023.02.28-14.52.17:553][710]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 32X32)
+[2023.02.28-14.52.17:553][710]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 32X32)
+[2023.02.28-14.52.17:553][710]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 32X32)
+[2023.02.28-14.52.17:553][710]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 32X32)
+[2023.02.28-14.52.17:554][710]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 32X32)
+[2023.02.28-14.52.17:554][710]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 32X32)
+[2023.02.28-14.52.17:554][710]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 32X32)
+[2023.02.28-14.52.17:554][710]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 32X32)
+[2023.02.28-14.52.17:555][710]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 32X32)
+[2023.02.28-14.52.17:555][710]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 32X32)
+[2023.02.28-14.52.17:555][710]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 32X32)
+[2023.02.28-14.52.17:555][710]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 32X32)
+[2023.02.28-14.52.17:555][710]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 32X32)
+[2023.02.28-14.52.17:556][710]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 32X32)
+[2023.02.28-14.52.17:556][710]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 32X32)
+[2023.02.28-14.52.17:556][710]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 32X32)
+[2023.02.28-14.52.17:556][710]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 32X32)
+[2023.02.28-14.52.17:557][710]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 32X32)
+[2023.02.28-14.52.17:557][710]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2023.02.28-14.52.17:557][710]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 32X32)
+[2023.02.28-14.52.17:557][710]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 32X32)
+[2023.02.28-14.52.17:557][710]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 32X32)
+[2023.02.28-14.52.17:558][710]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 32X32)
+[2023.02.28-14.52.17:558][710]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 32X32)
+[2023.02.28-14.52.17:558][710]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 32X32)
+[2023.02.28-14.52.17:558][710]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 32X32)
+[2023.02.28-14.52.17:559][710]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2023.02.28-14.52.17:559][710]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 32X32)
+[2023.02.28-14.52.17:559][710]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 32X32)
+[2023.02.28-14.52.17:559][710]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 32X32)
+[2023.02.28-14.52.17:559][710]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 32X32)
+[2023.02.28-14.52.17:560][710]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 32X32)
+[2023.02.28-14.52.17:560][710]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 32X32)
+[2023.02.28-14.52.17:560][710]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 32X32)
+[2023.02.28-14.52.17:560][710]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 32X32)
+[2023.02.28-14.52.17:560][710]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 32X32)
+[2023.02.28-14.52.17:561][710]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 32X32)
+[2023.02.28-14.52.17:561][710]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 32X32)
+[2023.02.28-14.52.17:561][710]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 32X32)
+[2023.02.28-14.52.17:561][710]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 32X32)
+[2023.02.28-14.52.17:562][710]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2023.02.28-14.52.17:562][710]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 32X32)
+[2023.02.28-14.52.17:562][710]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 32X32)
+[2023.02.28-14.52.17:562][710]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 32X32)
+[2023.02.28-14.52.17:562][710]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 32X32)
+[2023.02.28-14.52.17:563][710]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 32X32)
+[2023.02.28-14.52.17:563][710]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 32X32)
+[2023.02.28-14.52.17:563][710]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 32X32)
+[2023.02.28-14.52.17:563][710]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 32X32)
+[2023.02.28-14.52.17:564][710]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 32X32)
+[2023.02.28-14.52.17:564][710]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 32X32)
+[2023.02.28-14.52.17:564][710]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 32X32)
+[2023.02.28-14.52.17:564][710]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 32X32)
+[2023.02.28-14.52.17:564][710]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 32X32)
+[2023.02.28-14.52.17:565][710]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 32X32)
+[2023.02.28-14.52.17:565][710]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 32X32)
+[2023.02.28-14.52.17:565][710]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 32X32)
+[2023.02.28-14.52.17:565][710]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 32X32)
+[2023.02.28-14.52.17:566][710]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 32X32)
+[2023.02.28-14.52.17:566][710]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 32X32)
+[2023.02.28-14.52.17:566][710]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 32X32)
+[2023.02.28-14.52.17:566][710]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 32X32)
+[2023.02.28-14.52.17:567][710]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 32X32)
+[2023.02.28-14.52.17:567][710]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 32X32)
+[2023.02.28-14.52.17:567][710]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 32X32)
+[2023.02.28-14.52.17:567][710]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 32X32)
+[2023.02.28-14.52.17:568][710]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 32X32)
+[2023.02.28-14.52.17:568][710]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 32X32)
+[2023.02.28-14.52.17:568][710]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 32X32)
+[2023.02.28-14.52.17:568][710]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 32X32)
+[2023.02.28-14.52.17:569][710]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 32X32)
+[2023.02.28-14.52.17:569][710]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 32X32)
+[2023.02.28-14.52.17:569][710]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 32X32)
+[2023.02.28-14.52.17:569][710]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 32X32)
+[2023.02.28-14.52.17:570][710]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 32X32)
+[2023.02.28-14.52.17:570][710]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 32X32)
+[2023.02.28-14.52.17:570][710]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 32X32)
+[2023.02.28-14.52.17:570][710]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 32X32)
+[2023.02.28-14.52.17:570][710]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 32X32)
+[2023.02.28-14.52.17:572][710]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 32X32)
+[2023.02.28-14.52.17:572][710]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 32X32)
+[2023.02.28-14.52.17:572][710]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 32X32)
+[2023.02.28-14.52.17:572][710]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 32X32)
+[2023.02.28-14.52.17:573][710]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 32X32)
+[2023.02.28-14.52.17:573][710]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 32X32)
+[2023.02.28-14.52.17:573][710]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 32X32)
+[2023.02.28-14.52.17:574][710]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 32X32)
+[2023.02.28-14.52.17:574][710]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 32X32)
+[2023.02.28-14.52.17:574][710]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 32X32)
+[2023.02.28-14.52.17:574][710]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 32X32)
+[2023.02.28-14.52.17:575][710]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 32X32)
+[2023.02.28-14.52.17:578][710]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 32X32)
+[2023.02.28-14.52.17:579][710]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 32X32)
+[2023.02.28-14.52.17:579][710]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 32X32)
+[2023.02.28-14.52.17:579][710]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 32X32)
+[2023.02.28-14.52.17:579][710]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 32X32)
+[2023.02.28-14.52.17:579][710]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 32X32)
+[2023.02.28-14.52.17:579][710]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 32X32)
+[2023.02.28-14.52.17:580][710]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 32X32)
+[2023.02.28-14.52.17:580][710]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 32X32)
+[2023.02.28-14.52.17:580][710]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 32X32)
+[2023.02.28-14.52.17:580][710]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 32X32)
+[2023.02.28-14.52.17:581][710]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 32X32)
+[2023.02.28-14.52.17:581][710]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 32X32)
+[2023.02.28-14.52.17:581][710]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 32X32)
+[2023.02.28-14.52.17:581][710]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 32X32)
+[2023.02.28-14.52.17:582][710]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 32X32)
+[2023.02.28-14.52.17:582][710]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 32X32)
+[2023.02.28-14.52.17:582][710]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 32X32)
+[2023.02.28-14.52.17:582][710]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 32X32)
+[2023.02.28-14.52.17:583][710]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 32X32)
+[2023.02.28-14.52.17:583][710]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 32X32)
+[2023.02.28-14.52.17:583][710]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 32X32)
+[2023.02.28-14.52.17:583][710]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 32X32)
+[2023.02.28-14.52.17:584][710]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 32X32)
+[2023.02.28-14.52.17:584][710]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 32X32)
+[2023.02.28-14.52.17:584][710]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 32X32)
+[2023.02.28-14.52.17:584][710]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 32X32)
+[2023.02.28-14.52.17:585][710]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 32X32)
+[2023.02.28-14.52.17:585][710]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 32X32)
+[2023.02.28-14.52.17:585][710]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 32X32)
+[2023.02.28-14.52.17:585][710]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 32X32)
+[2023.02.28-14.52.17:586][710]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 32X32)
+[2023.02.28-14.52.17:586][710]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 32X32)
+[2023.02.28-14.52.17:586][710]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 32X32)
+[2023.02.28-14.52.17:587][710]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2023.02.28-14.52.17:587][710]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2023.02.28-14.52.17:587][710]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 32X32)
+[2023.02.28-14.52.17:588][710]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 32X32)
+[2023.02.28-14.52.17:588][710]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 32X32)
+[2023.02.28-14.52.17:588][710]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2023.02.28-14.52.17:588][710]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2023.02.28-14.52.17:589][710]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 32X32)
+[2023.02.28-14.52.17:589][710]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 32X32)
+[2023.02.28-14.52.17:589][710]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 32X32)
+[2023.02.28-14.52.17:590][710]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2023.02.28-14.52.17:590][710]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2023.02.28-14.52.17:590][710]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 32X32)
+[2023.02.28-14.52.17:590][710]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2023.02.28-14.52.17:590][710]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 32X32)
+[2023.02.28-14.52.17:591][710]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2023.02.28-14.52.17:591][710]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2023.02.28-14.52.17:591][710]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 32X32)
+[2023.02.28-14.52.17:591][710]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 32X32)
+[2023.02.28-14.52.17:591][710]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 32X32)
+[2023.02.28-14.52.17:593][710]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 32X32)
+[2023.02.28-14.52.17:593][710]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2023.02.28-14.52.17:593][710]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 32X32)
+[2023.02.28-14.52.17:593][710]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 32X32)
+[2023.02.28-14.52.17:594][710]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 32X32)
+[2023.02.28-14.52.17:594][710]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 32X32)
+[2023.02.28-14.52.17:594][710]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.52.17:596][710]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 32X32)
+[2023.02.28-14.52.17:597][710]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 32X32)
+[2023.02.28-14.52.17:597][710]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 32X32)
+[2023.02.28-14.52.17:598][710]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 32X32)
+[2023.02.28-14.52.17:598][710]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 32X32)
+[2023.02.28-14.52.17:598][710]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 32X32)
+[2023.02.28-14.52.17:598][710]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 32X32)
+[2023.02.28-14.52.17:599][710]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 32X32)
+[2023.02.28-14.52.17:599][710]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 32X32)
+[2023.02.28-14.52.17:599][710]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 32X32)
+[2023.02.28-14.52.17:599][710]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 32X32)
+[2023.02.28-14.52.17:599][710]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 32X32)
+[2023.02.28-14.52.17:599][710]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 32X32)
+[2023.02.28-14.52.17:600][710]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 32X32)
+[2023.02.28-14.52.17:600][710]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 32X32)
+[2023.02.28-14.52.17:600][710]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 32X32)
+[2023.02.28-14.52.17:600][710]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 32X32)
+[2023.02.28-14.52.17:601][710]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 32X32)
+[2023.02.28-14.52.17:601][710]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 32X32)
+[2023.02.28-14.52.17:601][710]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 32X32)
+[2023.02.28-14.52.17:601][710]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 32X32)
+[2023.02.28-14.52.17:601][710]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 32X32)
+[2023.02.28-14.52.17:602][710]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 32X32)
+[2023.02.28-14.52.17:602][710]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 32X32)
+[2023.02.28-14.52.17:602][710]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 32X32)
+[2023.02.28-14.52.17:602][710]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 32X32)
+[2023.02.28-14.52.17:603][710]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 32X32)
+[2023.02.28-14.52.17:603][710]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 32X32)
+[2023.02.28-14.52.17:603][710]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 32X32)
+[2023.02.28-14.52.17:604][710]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 32X32)
+[2023.02.28-14.52.17:604][710]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 32X32)
+[2023.02.28-14.52.17:604][710]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 32X32)
+[2023.02.28-14.52.17:605][710]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 32X32)
+[2023.02.28-14.52.17:605][710]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 32X32)
+[2023.02.28-14.52.17:605][710]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 32X32)
+[2023.02.28-14.52.17:605][710]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 32X32)
+[2023.02.28-14.52.17:606][710]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 32X32)
+[2023.02.28-14.52.17:606][710]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 32X32)
+[2023.02.28-14.52.17:606][710]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 32X32)
+[2023.02.28-14.52.17:607][710]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 32X32)
+[2023.02.28-14.52.17:607][710]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 32X32)
+[2023.02.28-14.52.17:607][710]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 32X32)
+[2023.02.28-14.52.17:607][710]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 32X32)
+[2023.02.28-14.52.17:608][710]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 32X32)
+[2023.02.28-14.52.17:608][710]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 32X32)
+[2023.02.28-14.52.17:608][710]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 32X32)
+[2023.02.28-14.52.17:608][710]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 32X32)
+[2023.02.28-14.52.17:608][710]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 32X32)
+[2023.02.28-14.52.17:609][710]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 32X32)
+[2023.02.28-14.52.17:609][710]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 32X32)
+[2023.02.28-14.52.17:609][710]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 32X32)
+[2023.02.28-14.52.17:610][710]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 32X32)
+[2023.02.28-14.52.17:610][710]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 32X32)
+[2023.02.28-14.52.17:611][710]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 32X32)
+[2023.02.28-14.52.17:611][710]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 32X32)
+[2023.02.28-14.52.17:611][710]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 32X32)
+[2023.02.28-14.52.17:611][710]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 32X32)
+[2023.02.28-14.52.17:611][710]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 32X32)
+[2023.02.28-14.52.17:612][710]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 32X32)
+[2023.02.28-14.52.17:612][710]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 32X32)
+[2023.02.28-14.52.17:612][710]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 32X32)
+[2023.02.28-14.52.17:612][710]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 32X32)
+[2023.02.28-14.52.17:613][710]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 32X32)
+[2023.02.28-14.52.17:613][710]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 32X32)
+[2023.02.28-14.52.17:613][710]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 32X32)
+[2023.02.28-14.52.17:613][710]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 32X32)
+[2023.02.28-14.52.17:614][710]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 32X32)
+[2023.02.28-14.52.17:614][710]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 32X32)
+[2023.02.28-14.52.17:614][710]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 32X32)
+[2023.02.28-14.52.17:614][710]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 32X32)
+[2023.02.28-14.52.17:615][710]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 32X32)
+[2023.02.28-14.52.17:615][710]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 32X32)
+[2023.02.28-14.52.17:615][710]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 32X32)
+[2023.02.28-14.52.17:615][710]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 32X32)
+[2023.02.28-14.52.17:615][710]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 32X32)
+[2023.02.28-14.52.17:616][710]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 32X32)
+[2023.02.28-14.52.17:616][710]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 32X32)
+[2023.02.28-14.52.17:616][710]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 32X32)
+[2023.02.28-14.52.17:616][710]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 32X32)
+[2023.02.28-14.52.17:617][710]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 32X32)
+[2023.02.28-14.52.17:617][710]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 32X32)
+[2023.02.28-14.52.17:617][710]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 32X32)
+[2023.02.28-14.52.17:618][710]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 32X32)
+[2023.02.28-14.52.17:618][710]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 32X32)
+[2023.02.28-14.52.17:618][710]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 32X32)
+[2023.02.28-14.52.17:618][710]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 32X32)
+[2023.02.28-14.52.17:619][710]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 32X32)
+[2023.02.28-14.52.17:619][710]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 32X32)
+[2023.02.28-14.52.17:619][710]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 32X32)
+[2023.02.28-14.52.18:213][710]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/Skills week/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/MainLevel4B9B091942B011B999970CA53243616A.tmp' to '../../../../../../Users/Lee/Desktop/Skills week/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/MainLevel.umap'
+[2023.02.28-14.52.18:225][710]LogFileHelpers: Saving map 'MainLevel' took 0.734
+[2023.02.28-14.52.18:259][710]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.28-14.52.18:259][710]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2023.02.28-14.53.42:762][246]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.53.42:775][246]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.53.47:169][372]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2023.02.28-14.53.47:174][372]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2023.02.28-14.58.09:893][555]Cmd: POLY SELECT ADJACENT WALLS
+[2023.02.28-14.58.11:589][758]Cmd: POLY SELECT ADJACENT WALLS
+[2023.02.28-14.59.08:350][801]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-14.59.08:354][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-14.59.08:354][801]PIE: New page: PIE session: MainLevel (28 Feb 2023, 14:59:08)
+[2023.02.28-14.59.08:391][801]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 32X32)
+[2023.02.28-14.59.08:521][801]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 32X32)
+[2023.02.28-14.59.08:522][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131202s)
+[2023.02.28-14.59.08:522][801]LogAIModule: Creating AISystem for world MainLevel
+[2023.02.28-14.59.08:523][801]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2023.02.28-14.59.08:523][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.132316s)
+[2023.02.28-14.59.08:551][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.02.28-14.59.08:557][801]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-14.59.08:557][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-14.59.08:557][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-14.59.08:557][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-14.59.08:557][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-14.59.08:557][801]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-14.59.08:560][801]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-14.59.08:560][801]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-14.59.08:566][801]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2023.02.28-14.59.08:566][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-14.59.08:566][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-14.59.08:566][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-14.59.08:566][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-14.59.08:566][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-14.59.08:566][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.28-14.59.08:567][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-14.59.08:567][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-14.59.08:567][801]LogInit: FAudioDevice initialized.
+[2023.02.28-14.59.08:567][801]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2023.02.28-14.59.08:574][801]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.02.28-14.59.08:583][801]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.02.28-14.59.08
+[2023.02.28-14.59.08:583][801]LogWorld: Bringing up level for play took: 0.008542
+[2023.02.28-14.59.08:583][801]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.02.28-14.59.08:586][801]PIE: Server logged in
+[2023.02.28-14.59.08:587][801]PIE: Play in editor total start time 0.234 seconds.
+[2023.02.28-14.59.45:222][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-14.59.45:222][184]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.02.28-14.59.45:223][184]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-14.59.45:227][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-14.59.45:235][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-14.59.45:237][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-14.59.45:258][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-14.59.45:258][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-14.59.45:258][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-14.59.45:261][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-14.59.45:271][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.02.28-14.59.45:285][185]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.28-14.59.51:156][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.02.28-14.59.52:790][861]LogSlate: Window 'Save Content' being destroyed
+[2023.02.28-14.59.52:818][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.28-14.59.52:862][861]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2023.02.28-14.59.52:864][861]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2023.02.28-14.59.52:868][861]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2023.02.28-14.59.52:870][861]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2023.02.28-14.59.52:878][861]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2023.02.28-14.59.52:881][861]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2023.02.28-14.59.52:884][861]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2023.02.28-14.59.52:886][861]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2023.02.28-14.59.53:482][861]LogSavePackage: Moving '../../../../../../Users/Lee/Desktop/Skills week/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/MainLevelF77CDAE449F2846C6FDE5FA2D626EEB5.tmp' to '../../../../../../Users/Lee/Desktop/Skills week/ChallengeWeek2ElectricBoogaloo/blueprints/Content/Levels/MainLevel.umap'
+[2023.02.28-14.59.53:512][861]LogFileHelpers: Saving map 'MainLevel' took 0.707
+[2023.02.28-14.59.53:542][861]AssetCheck: New page: Asset Save: MainLevel
+[2023.02.28-14.59.53:542][861]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
