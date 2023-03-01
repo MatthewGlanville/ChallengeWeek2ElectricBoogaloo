@@ -1474,3 +1474,210 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.01-16.41.09:817][266]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.01-16.41.09:817][266]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.03.01-16.41.09:817][266]LogContentValidation: Display: Validating World /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.01-16.41.52:256][458]LogSlate: Took 0.009422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.01-16.42.05:024][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/Enemy.Enemy
+[2023.03.01-16.42.06:228][795]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2023.03.01-16.42.10:204][899]LogRenderer: Reallocating scene render targets to support 1280x712 Format 10 NumSamples 1 (Frame:1).
+[2023.03.01-16.42.37:234][493]LogActorFactory: Actor Factory created abomination__3_
+[2023.03.01-16.42.57:733][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (abomination__3_)
+[2023.03.01-16.44.59:592][940]BlueprintLog: New page: Compile Enemy
+[2023.03.01-16.44.59:741][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.03.01-16.44.59:807][940]LogSlate: Took 0.015228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.01-16.45.01:032][974]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Enemy9D60BAC546B3AB71905E9F9121B36E85.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Enemy.uasset'
+[2023.03.01-16.45.01:050][974]AssetCheck: New page: Asset Save: Enemy
+[2023.03.01-16.45.01:050][974]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Enemy.Enemy
+[2023.03.01-16.45.11:478][288]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/Enemy8D155A3A4238DC6A11A5889E7A42AA70.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/blueprints/Enemy.uasset'
+[2023.03.01-16.45.11:500][288]AssetCheck: New page: Asset Save: Enemy
+[2023.03.01-16.45.11:500][288]LogContentValidation: Display: Validating Blueprint /Game/blueprints/Enemy.Enemy
+[2023.03.01-16.45.21:788][552]Cmd: DELETE
+[2023.03.01-16.45.21:789][552]Cmd: ACTOR DELETE
+[2023.03.01-16.45.21:800][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.01-16.45.21:838][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.03.01-16.45.21:842][552]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2023.03.01-16.45.22:498][574]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2023.03.01-16.45.28:776][770]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.01-16.45.28:784][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-16.45.28:784][770]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2023, 16:45:28)
+[2023.03.01-16.45.28:784][770]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.45.28:796][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011343s)
+[2023.03.01-16.45.28:796][770]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.01-16.45.28:797][770]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2023.03.01-16.45.28:797][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012786s)
+[2023.03.01-16.45.28:827][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.01-16.45.28:831][770]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-16.45.28:831][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-16.45.28:831][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-16.45.28:831][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-16.45.28:831][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-16.45.28:831][770]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-16.45.28:838][770]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-16.45.28:838][770]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-16.45.28:989][770]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.01-16.45.28:990][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-16.45.28:990][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-16.45.28:990][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-16.45.28:990][770]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-16.45.28:990][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-16.45.28:990][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-16.45.28:991][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-16.45.28:992][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-16.45.28:992][770]LogInit: FAudioDevice initialized.
+[2023.03.01-16.45.28:992][770]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.03.01-16.45.29:004][770]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.01-16.45.29:008][770]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.01-16.45.29
+[2023.03.01-16.45.29:008][770]LogWorld: Bringing up level for play took: 0.003548
+[2023.03.01-16.45.29:009][770]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.01-16.45.29:012][770]PIE: Server logged in
+[2023.03.01-16.45.29:013][770]PIE: Play in editor total start time 0.23 seconds.
+[2023.03.01-16.45.31:476][924]LogNet: Browse: /Game/Levels/GameOver
+[2023.03.01-16.45.31:477][924]LogLoad: LoadMap: /Game/Levels/GameOver
+[2023.03.01-16.45.31:477][924]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.45.31:478][924]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-16.45.31:478][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.45.31:507][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-16.45.31:512][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.03.01-16.45.31:547][924]LogAudio: Display: Audio Device (ID: 4) registered with world 'GameOver'.
+[2023.03.01-16.45.31:548][924]LogAIModule: Creating AISystem for world GameOver
+[2023.03.01-16.45.31:548][924]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.01-16.45.31:550][924]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2023.03.01-16.45.31
+[2023.03.01-16.45.31:550][924]LogWorld: Bringing up level for play took: 0.000559
+[2023.03.01-16.45.31:550][924]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.01-16.45.31:561][924]LogLoad: Took 0.085290 seconds to LoadMap(/Game/Levels/GameOver)
+[2023.03.01-16.45.33:032][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-16.45.33:032][ 33]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameOver
+[2023.03.01-16.45.33:032][ 33]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-16.45.33:032][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.45.33:049][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-16.45.33:067][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.45.33:106][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-16.45.33:106][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-16.45.33:108][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-16.45.33:112][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-16.45.33:120][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2023.03.01-16.45.33:161][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.01-16.45.40:843][195]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MatthewModels/abomination__3_.abomination__3_
+[2023.03.01-16.45.42:067][196]LogRenderer: Reallocating scene render targets to support 1280x900 Format 10 NumSamples 1 (Frame:1).
+[2023.03.01-16.47.11:537][445]LogSavePackage: Moving '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Saved/abomination__3_B29AA3674676DFB754ED1AA73F957117.tmp' to '../../../../../../Users/glanv/Documents/the illuminati is unreal/GlobalGameJam/ChallengeWeek2ElectricBoogaloo/blueprints/Content/MatthewModels/abomination__3_.uasset'
+[2023.03.01-16.47.11:568][445]AssetCheck: New page: Asset Save: abomination__3_
+[2023.03.01-16.47.11:569][445]LogContentValidation: Display: Validating StaticMesh /Game/MatthewModels/abomination__3_.abomination__3_
+[2023.03.01-16.47.22:623][736]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.01-16.47.22:643][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-16.47.22:643][736]PIE: New page: PIE session: ThirdPersonExampleMap (1 Mar 2023, 16:47:22)
+[2023.03.01-16.47.22:643][736]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.47.22:674][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031817s)
+[2023.03.01-16.47.22:676][736]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.01-16.47.22:676][736]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2023.03.01-16.47.22:676][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033951s)
+[2023.03.01-16.47.22:771][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.03.01-16.47.22:775][736]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-16.47.22:775][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-16.47.22:775][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-16.47.22:775][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-16.47.22:775][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-16.47.22:775][736]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-16.47.22:779][736]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-16.47.22:779][736]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-16.47.22:962][736]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.03.01-16.47.22:962][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-16.47.22:962][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-16.47.22:962][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-16.47.22:962][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-16.47.22:962][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-16.47.22:962][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-16.47.22:964][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-16.47.22:964][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-16.47.22:964][736]LogInit: FAudioDevice initialized.
+[2023.03.01-16.47.22:964][736]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.03.01-16.47.22:972][736]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.01-16.47.22:977][736]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.01-16.47.22
+[2023.03.01-16.47.22:977][736]LogWorld: Bringing up level for play took: 0.003972
+[2023.03.01-16.47.22:978][736]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.01-16.47.22:982][736]PIE: Server logged in
+[2023.03.01-16.47.22:983][736]PIE: Play in editor total start time 0.343 seconds.
+[2023.03.01-16.47.26:224][927]LogNet: Browse: /Game/Levels/GameOver
+[2023.03.01-16.47.26:224][927]LogLoad: LoadMap: /Game/Levels/GameOver
+[2023.03.01-16.47.26:224][927]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.47.26:225][927]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-16.47.26:226][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.47.26:277][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-16.47.26:332][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2023.03.01-16.47.26:357][927]LogAudio: Display: Audio Device (ID: 5) registered with world 'GameOver'.
+[2023.03.01-16.47.26:357][927]LogAIModule: Creating AISystem for world GameOver
+[2023.03.01-16.47.26:358][927]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.01-16.47.26:359][927]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2023.03.01-16.47.26
+[2023.03.01-16.47.26:359][927]LogWorld: Bringing up level for play took: 0.000727
+[2023.03.01-16.47.26:360][927]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.01-16.47.26:362][927]LogLoad: Took 0.137479 seconds to LoadMap(/Game/Levels/GameOver)
+[2023.03.01-16.47.28:828][126]LogNet: Browse: /Game/Levels/ThirdPersonExampleMap
+[2023.03.01-16.47.28:828][126]LogLoad: LoadMap: /Game/Levels/ThirdPersonExampleMap
+[2023.03.01-16.47.28:828][126]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameOver
+[2023.03.01-16.47.28:829][126]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-16.47.28:829][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.47.28:863][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-16.47.28:867][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.03.01-16.47.28:868][126]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.47.28:879][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010695s)
+[2023.03.01-16.47.28:880][126]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.01-16.47.28:881][126]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2023.03.01-16.47.28:881][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012761s)
+[2023.03.01-16.47.28:881][126]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.03.01-16.47.28:881][126]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.01-16.47.28:884][126]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.01-16.47.28
+[2023.03.01-16.47.28:885][126]LogWorld: Bringing up level for play took: 0.002942
+[2023.03.01-16.47.28:886][126]LogLoad: Took 0.059145 seconds to LoadMap(/Game/Levels/UEDPIE_0_ThirdPersonExampleMap)
+[2023.03.01-16.47.33:045][368]LogNet: Browse: /Game/Levels/GameOver
+[2023.03.01-16.47.33:046][368]LogLoad: LoadMap: /Game/Levels/GameOver
+[2023.03.01-16.47.33:046][368]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.47.33:047][368]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-16.47.33:048][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.47.33:103][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-16.47.33:109][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.03.01-16.47.33:116][368]LogAudio: Display: Audio Device (ID: 5) registered with world 'GameOver'.
+[2023.03.01-16.47.33:117][368]LogAIModule: Creating AISystem for world GameOver
+[2023.03.01-16.47.33:118][368]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.01-16.47.33:119][368]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameOver.GameOver up for play (max tick rate 0) at 2023.03.01-16.47.33
+[2023.03.01-16.47.33:119][368]LogWorld: Bringing up level for play took: 0.000622
+[2023.03.01-16.47.33:120][368]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.01-16.47.33:122][368]LogLoad: Took 0.075649 seconds to LoadMap(/Game/Levels/GameOver)
+[2023.03.01-16.47.39:368][949]LogNet: Browse: /Game/Levels/ThirdPersonExampleMap
+[2023.03.01-16.47.39:368][949]LogLoad: LoadMap: /Game/Levels/ThirdPersonExampleMap
+[2023.03.01-16.47.39:368][949]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameOver
+[2023.03.01-16.47.39:369][949]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-16.47.39:369][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.47.39:437][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-16.47.39:441][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.03.01-16.47.39:443][949]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.47.39:461][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018323s)
+[2023.03.01-16.47.39:463][949]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.01-16.47.39:464][949]LogPlayLevel: PIE: World Init took: (0.002844s)
+[2023.03.01-16.47.39:465][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021534s)
+[2023.03.01-16.47.39:465][949]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.03.01-16.47.39:465][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.03.01-16.47.39:470][949]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.03.01-16.47.39
+[2023.03.01-16.47.39:471][949]LogWorld: Bringing up level for play took: 0.005010
+[2023.03.01-16.47.39:475][949]LogLoad: Took 0.105551 seconds to LoadMap(/Game/Levels/UEDPIE_0_ThirdPersonExampleMap)
+[2023.03.01-16.47.50:306][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-16.47.50:306][631]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.01-16.47.50:307][631]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-16.47.50:308][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.47.50:320][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-16.47.50:342][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-16.47.50:394][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-16.47.50:394][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-16.47.50:396][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.01-16.47.50:408][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.03.01-16.47.50:477][632]LogPlayLevel: Display: Destroying online subsystem :Context_13
